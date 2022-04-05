@@ -33,7 +33,7 @@
       "url": "_framework\/icudt_no_CJK.dat.br"
     },
     {
-      "hash": "sha256-rvgRrnALIBCgC\/RdLe2W045EyLW2DD1AvaLWSba7jwI=",
+      "hash": "sha256-SzFCAlxBOw0eFxsXJrA2iVgo2pjbgLUwLXfVPLUBb9A=",
       "url": "_framework\/blazor.boot.json.br"
     },
     {
@@ -185,7 +185,7 @@
       "url": "_framework\/System.Text.RegularExpressions.dll.br"
     },
     {
-      "hash": "sha256-HgbOVOSwBUme3qJq3D2OHfmsoV1\/y6FgqKMOCQP2GxM=",
+      "hash": "sha256-jWFcjnH8ScLxSDfP7jjJKMdUioSLj4rh5USoCZz2Ruc=",
       "url": "_framework\/WordleHelper.dll.br"
     },
     {
@@ -241,11 +241,11 @@
       "url": "css\/open-iconic\/README.md"
     },
     {
-      "hash": "sha256-cFI9qTr9aBayxII7mmSTPbzpoRXH1fREQQkYbpum\/Hg=",
-      "url": "data\/English (International).dic"
+      "hash": "sha256-DV4lbFKP+N9PqsQz56Yc4H1Hvoo42uQQXppAWbhorFM=",
+      "url": "data\/English.dic"
     },
     {
-      "hash": "sha256-0RxoKpgCdMcJKhlBRpoUvz1+iZc5uix6egvYeg9z8bo=",
+      "hash": "sha256-15LEcCyNBAGVW\/iw5XWrYJZUmrRXgFu2JM8xn4dtOJQ=",
       "url": "data\/Espanol.dic"
     },
     {
@@ -277,5 +277,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "NNgsghcD"
+  "version": "Tg3n3ipA"
 };

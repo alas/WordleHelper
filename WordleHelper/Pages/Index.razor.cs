@@ -21,7 +21,7 @@ public partial class Index
 
     protected override async Task OnInitializedAsync()
     {
-        var file1 = await Http.GetStringAsync("data/English (International).dic");
+        var file1 = await Http.GetStringAsync("data/English.dic");
         var file2 = await Http.GetStringAsync("data/Espanol.dic");
         Dictionary = new(file1, file2);
         Loaded = true;
@@ -76,15 +76,7 @@ public class Dictionary
         {
             if (word.Length == 5 || word.Length == 6 || word.Length == 7)
             {
-                var isValid = true;
-                for (var i = 0; i < word.Length && isValid; i++)
-                {
-                    if (!char.IsLetter(word[i]))
-                    {
-                        isValid = false;
-                    }
-                }                
-                if (isValid) results.Add(word.ToString());
+                results.Add(word.ToString());
             }
         }
 

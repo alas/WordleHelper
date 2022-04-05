@@ -8,10 +8,7 @@ self.addEventListener("install", (event) => {
             [
                 "/css/bootstrap/bootstrap.min.css",
                 "/css/app.css",
-                "/WordleHelper.styles.css",
-                "/data/English (International).dic",
-                "/data/English%20(International).dic",
-                "/data/Espanol.dic"
+                "/WordleHelper.styles.css"
             ]
         ))
     );
