@@ -64,6 +64,7 @@ public class Dictionary
         Spanish = ProcessFile(spanish);
     }
 
+    // todo: reduce execution time for this function
     private static string[] ProcessFile(string file)
     {
         var regexp = new Regex(@"^[a-z]+$");
