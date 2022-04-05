@@ -19,12 +19,13 @@ else
         }
         </InputRadioGroup> <br />
 
-        <InputText @bind-Value="Model.AvailableLetters" /> <span>Available letters (optional)</span> <br />
+        <InputText @bind-Value="Model.AvailableLetters" id="availableLetters" /> <label for="availableLetters">Available letters (optional)</label> <br /><br />
 
-        <InputText @bind-Value="Model.ObligatoryLetters" /> <span>Obligatory letters (optional)</span> <br />
+        <InputText @bind-Value="Model.RejectedLetters" id="rejectedLetters" /> <label for="rejectedLetters">Rejected letters (optional)</label> <br /><br />
 
-        <InputText @bind-Value="Model.Pattern" /> <span>Pattern</span> <br />
-        <br />
+        <InputText @bind-Value="Model.ObligatoryLetters" id="obligatoryLetters" /> <label for="obligatoryLetters">Obligatory letters (optional)</label> <br /><br />
+
+        <InputText @bind-Value="Model.Pattern" id="pattern" /> <label for="pattern">Pattern</label> <br /><br />
 
         <input type="submit" class="btn btn-primary" value="Search" />
 

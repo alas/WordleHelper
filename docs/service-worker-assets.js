@@ -33,7 +33,7 @@
       "url": "_framework\/icudt_no_CJK.dat.br"
     },
     {
-      "hash": "sha256-PbSwk2EstCMpw0e5hEOEGBrXwvWc0Zly0Co8oWj6RDE=",
+      "hash": "sha256-rvgRrnALIBCgC\/RdLe2W045EyLW2DD1AvaLWSba7jwI=",
       "url": "_framework\/blazor.boot.json.br"
     },
     {
@@ -101,7 +101,7 @@
       "url": "_framework\/System.Collections.Concurrent.dll.br"
     },
     {
-      "hash": "sha256-HdnnTLWrty3jPKByepqTevL89ci19WvBKEO+TW2gdic=",
+      "hash": "sha256-CMKenMUlyur0FxkkySrxtBcwkMCC0yM2p67dKYCU32U=",
       "url": "_framework\/System.Collections.dll.br"
     },
     {
@@ -129,7 +129,7 @@
       "url": "_framework\/System.dll.br"
     },
     {
-      "hash": "sha256-MdLE8tf+0U2kpe7JjsF5X79RGSwj+I9tOusavi1OUQM=",
+      "hash": "sha256-5qlkQUqyex3NiOxNTn+Vpp48ZZkFg1B9FMJi2j6gvoo=",
       "url": "_framework\/System.Linq.dll.br"
     },
     {
@@ -137,7 +137,7 @@
       "url": "_framework\/System.Linq.Expressions.dll.br"
     },
     {
-      "hash": "sha256-YwfKIpRWH538g1oBQnEmnLVN1iZdIG4BWL+vkreMwco=",
+      "hash": "sha256-VLaCcpIwlBiDE7WT+FqDAH8el+wIy59HcFxlqcAiclA=",
       "url": "_framework\/System.Memory.dll.br"
     },
     {
@@ -153,7 +153,7 @@
       "url": "_framework\/System.ObjectModel.dll.br"
     },
     {
-      "hash": "sha256-b7WaYSN8\/2s4ZuFWPGKZmQ4UwMFkWObtClbMxdUQol8=",
+      "hash": "sha256-qm+YYgBcT3kwJaEAJ1Skva\/2x+cxrpE1Irt7oEae7Ec=",
       "url": "_framework\/System.Private.CoreLib.dll.br"
     },
     {
@@ -169,7 +169,7 @@
       "url": "_framework\/System.Runtime.CompilerServices.Unsafe.dll.br"
     },
     {
-      "hash": "sha256-t6O55X8d44Ypcm9WU3\/bJULiBr8ni1erfJGtkREloGU=",
+      "hash": "sha256-CMEv05jK6iJ6gt4NJoHQalP22Up44wNcOslFh418+N0=",
       "url": "_framework\/System.Runtime.dll.br"
     },
     {
@@ -181,11 +181,11 @@
       "url": "_framework\/System.Text.Json.dll.br"
     },
     {
-      "hash": "sha256-5Hdo16V0+51YijNujC5QpnE7xAU\/lJFP50nujhD5tjQ=",
+      "hash": "sha256-HSSUTqYxL39ixSXY4iReb+bB8LvU6RDqHuMEFgs5bqE=",
       "url": "_framework\/System.Text.RegularExpressions.dll.br"
     },
     {
-      "hash": "sha256-XytjefysHqGARxsPmKz3hTpJbiTXeX3oQx5whIpkqYU=",
+      "hash": "sha256-HgbOVOSwBUme3qJq3D2OHfmsoV1\/y6FgqKMOCQP2GxM=",
       "url": "_framework\/WordleHelper.dll.br"
     },
     {
@@ -277,5 +277,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "seWLjMSV"
+  "version": "NNgsghcD"
 };

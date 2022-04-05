@@ -2,6 +2,8 @@
 
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Forms;
+using System;
+using System.Globalization;
 using System.Text.RegularExpressions;
 
 public partial class Index
@@ -16,7 +18,7 @@ public partial class Index
 
     private Dictionary Dictionary;
 
-    private string[]? Results;
+    private List<string>? Results;
 
     protected override async Task OnInitializedAsync()
     {
@@ -45,6 +47,7 @@ public class Model
     public readonly string[] LanguageOptions = { "English", "Spanish" };
     public string? Language;
     public string? AvailableLetters;
+    public string? RejectedLetters;
     public string? ObligatoryLetters;
     public string? Pattern;
 }
@@ -54,32 +57,42 @@ public class Model
  */
 public class Dictionary
 {
-    private readonly string[] English;
+    private readonly List<string> English;
 
-    private readonly string[] Spanish;
+    private readonly List<string> Spanish;
 
     public Dictionary(string english, string spanish)
     {
+        var start = DateTime.UtcNow;
         English = ProcessFile(english);
         Spanish = ProcessFile(spanish);
+        var dt = DateTime.UtcNow.Subtract(start).TotalSeconds;
     }
 
-    // todo: reduce execution time for this function
-    private static string[] ProcessFile(string file)
+    private static List<string> ProcessFile(string file)
     {
-        var regexp = new Regex(@"^[a-z]+$");
+        List<string> results = new();
 
-        var words = file
-            .Split(Environment.NewLine)
-            .Select(t => t.Trim().ToLower())
-            .Where(t => new[] { 5, 6 }.Contains(t.Length))
-            .Where(t => regexp.IsMatch(t))
-            .ToArray();
+        foreach (var word in file.SplitLines())
+        {
+            if (word.Length == 5 || word.Length == 6 || word.Length == 7)
+            {
+                var isValid = true;
+                for (var i = 0; i < word.Length && isValid; i++)
+                {
+                    if (!char.IsLetter(word[i]))
+                    {
+                        isValid = false;
+                    }
+                }                
+                if (isValid) results.Add(word.ToString());
+            }
+        }
 
-        return words;
+        return results;
     }
 
-    public string[] GetAllWords(Model model)
+    public List<string> GetAllWords(Model model)
     {
         var words = model.Language switch
         {
@@ -96,25 +109,90 @@ public class Dictionary
             if (!pattern.EndsWith('$'))
                 pattern = pattern + '$';
 
-            var regexp = new Regex(pattern);
+            var regexp = new Regex(pattern, RegexOptions.Compiled);
 
-            words = words.Where(t => regexp.IsMatch(t)).ToArray();
+            words = words.Where(t => regexp.IsMatch(t)).ToList();
         }
 
         if (!string.IsNullOrWhiteSpace(model.AvailableLetters))
         {
             var availableLetters = model.AvailableLetters.Trim().ToLower();
 
-            words = words.Where(t => t.All(c => availableLetters.Contains(c))).ToArray();
+            words = words.Where(t => t.All(c => availableLetters.Contains(c))).ToList();
+        }
+
+        if (!string.IsNullOrWhiteSpace(model.RejectedLetters))
+        {
+            var rejectedLetters = model.RejectedLetters.Trim().ToLower();
+
+            words = words.Where(t => !t.Any(c => rejectedLetters.Contains(c))).ToList();
         }
 
         if (!string.IsNullOrWhiteSpace(model.ObligatoryLetters))
         {
             var obligatoryLetters = model.ObligatoryLetters.Trim().ToLower();
 
-            words = words.Where(t => obligatoryLetters.All(c => t.Any(tc => tc == c))).ToArray();
+            words = words.Where(t => obligatoryLetters.All(c => t.Any(tc => tc == c))).ToList();
         }
 
-        return words;
+        return words.Distinct().OrderBy(t => t).ToList();
+    }
+}
+
+// from https://www.meziantou.net/split-a-string-into-lines-without-allocation.htm
+public static class StringExtensions
+{
+    public static LineSplitEnumerator SplitLines(this string str)
+    {
+        // LineSplitEnumerator is a struct so there is no allocation here
+        return new LineSplitEnumerator(str.AsSpan());
+    }
+
+    // Must be a ref struct as it contains a ReadOnlySpan<char>
+    public ref struct LineSplitEnumerator
+    {
+        private ReadOnlySpan<char> _str;
+
+        public LineSplitEnumerator(ReadOnlySpan<char> str)
+        {
+            _str = str;
+            Current = default;
+        }
+
+        // Needed to be compatible with the foreach operator
+        public LineSplitEnumerator GetEnumerator() => this;
+
+        public bool MoveNext()
+        {
+            var span = _str;
+            if (span.Length == 0) // Reach the end of the string
+                return false;
+
+            var index = span.IndexOfAny('\r', '\n');
+            if (index == -1) // The string is composed of only one line
+            {
+                _str = ReadOnlySpan<char>.Empty; // The remaining string is an empty string
+                Current = span;
+                return true;
+            }
+
+            if (index < span.Length - 1 && span[index] == '\r')
+            {
+                // Try to consume the '\n' associated to the '\r'
+                var next = span[index + 1];
+                if (next == '\n')
+                {
+                    Current = span[..index];
+                    _str = span[(index + 2)..];
+                    return true;
+                }
+            }
+
+            Current = span[..index];
+            _str = span[(index + 1)..];
+            return true;
+        }
+
+        public ReadOnlySpan<char> Current { get; private set; }
     }
 }
