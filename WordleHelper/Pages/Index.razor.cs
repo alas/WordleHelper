@@ -62,10 +62,15 @@ public class Dictionary
 
     public Dictionary(string english, string spanish)
     {
+#if DEBUG
         var start = DateTime.UtcNow;
+#endif
         English = ProcessFile(english);
         Spanish = ProcessFile(spanish);
+#if DEBUG
         var dt = DateTime.UtcNow.Subtract(start).TotalSeconds;
+        System.Diagnostics.Debug.WriteLine($"Processing dictionaries took {dt} seconds");
+#endif
     }
 
     private static List<string> ProcessFile(string file)
