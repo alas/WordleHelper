@@ -1,0 +1,53 @@
+﻿@page "/"
+
+<PageTitle>Wordle Helper</PageTitle>
+<br />
+
+<h1>Wordle Helper</h1>
+@if (!Loaded)
+{
+    <span>Loading...</span>
+}
+else
+{
+    <EditForm Model=@Model OnSubmit=@FormSubmitted>
+
+        <InputRadioGroup @bind-Value="Model.Language">
+        @foreach (var option in Model.LanguageOptions)
+        {
+            <InputRadio Value="option" id="@option" /><label class="form-check-label" for="@option">@option</label> <br />
+        }
+        </InputRadioGroup> <br />
+
+        <InputText @bind-Value="Model.AvailableLetters" /> <span>Available letters (optional)</span> <br />
+
+        <InputText @bind-Value="Model.ObligatoryLetters" /> <span>Obligatory letters (optional)</span> <br />
+
+        <InputText @bind-Value="Model.Pattern" /> <br />
+        <br />
+
+        <input type="submit" class="btn btn-primary" value="Search" />
+
+    </EditForm>
+    
+    <br />
+    <br />
+
+    @if (LoadingResults)
+    {        
+        <span>Loading Results...</span>
+    }
+    else if (Results != null)
+    {
+        <div class="jumbotron jumbotron-fluid">
+            <div class="container-fluid">
+                <div class="row justify-content-start">
+                    @foreach (var result in Results)
+                    {
+                        <div class="col-auto">@result</div>
+                    }
+                </div>
+            </div>
+        </div>
+    } 
+}
