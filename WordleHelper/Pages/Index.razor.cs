@@ -9,7 +9,6 @@ public partial class Index
     [Inject] HttpClient Http { get; set; }
 
     private bool Loaded = false;
-
     private bool LoadingResults = false;
 
     private Model Model { get; set; } = new();
