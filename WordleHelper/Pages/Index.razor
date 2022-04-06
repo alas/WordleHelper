@@ -1,54 +1,38 @@
 ﻿@page "/"
-
 <PageTitle>Wordle Helper</PageTitle>
+<h1>Wordle Helper</h1>
+
+<EditForm Model=@Model OnSubmit=@FormSubmitted>
+
+    <InputRadioGroup @bind-Value="Model.Language">
+    @foreach (var option in Model.LanguageOptions)
+    {
+        <InputRadio Value="option" id="@option" /> <label class="form-check-label" for="@option">@option</label> <br />
+    }
+    </InputRadioGroup> <br />
+
+    <InputText @bind-Value="Model.AvailableLetters" id="availableLetters" /> <label for="availableLetters">Available letters (optional)</label> <br /><br />
+
+    <InputText @bind-Value="Model.RejectedLetters" id="rejectedLetters" /> <label for="rejectedLetters">Rejected letters (optional)</label> <br /><br />
+
+    <InputText @bind-Value="Model.ObligatoryLetters" id="obligatoryLetters" /> <label for="obligatoryLetters">Obligatory letters (optional)</label> <br /><br />
+
+    <InputText @bind-Value="Model.Pattern" id="pattern" /> <label for="pattern">Pattern</label> <br /><br />
+
+    <input type="submit" class="btn btn-primary" value="Search" />
+
+</EditForm>
+
+@if (Results != null && Results.Count > 0)
+{
 <br />
 
-<h1>Wordle Helper</h1>
-@if (!Loaded)
-{
-    <span>Loading...</span>
-}
-else
-{
-    <EditForm Model=@Model OnSubmit=@FormSubmitted>
-
-        <InputRadioGroup @bind-Value="Model.Language">
-        @foreach (var option in Model.LanguageOptions)
-        {
-            <InputRadio Value="option" id="@option" /><label class="form-check-label" for="@option">@option</label> <br />
-        }
-        </InputRadioGroup> <br />
-
-        <InputText @bind-Value="Model.AvailableLetters" id="availableLetters" /> <label for="availableLetters">Available letters (optional)</label> <br /><br />
-
-        <InputText @bind-Value="Model.RejectedLetters" id="rejectedLetters" /> <label for="rejectedLetters">Rejected letters (optional)</label> <br /><br />
-
-        <InputText @bind-Value="Model.ObligatoryLetters" id="obligatoryLetters" /> <label for="obligatoryLetters">Obligatory letters (optional)</label> <br /><br />
-
-        <InputText @bind-Value="Model.Pattern" id="pattern" /> <label for="pattern">Pattern</label> <br /><br />
-
-        <input type="submit" class="btn btn-primary" value="Search" />
-
-    </EditForm>
-    
-    <br />
-    <br />
-
-    @if (LoadingResults)
-    {        
-        <span>Loading Results...</span>
-    }
-    else if (Results != null)
+<div class="container-fluid">
+    <div class="row justify-content-start">
+    @foreach (var result in Results)
     {
-        <div class="jumbotron jumbotron-fluid">
-            <div class="container-fluid">
-                <div class="row justify-content-start">
-                    @foreach (var result in Results)
-                    {
-                        <div class="col-auto">@result</div>
-                    }
-                </div>
-            </div>
-        </div>
-    } 
+        <div class="col-auto m-1 p-3 bg-secondary text-white rounded">@result</div>
+    }
+    </div>
+</div>
 }
