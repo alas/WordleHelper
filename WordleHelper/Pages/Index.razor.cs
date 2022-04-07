@@ -90,7 +90,7 @@ public class Dictionary
         await stream.FlushAsync();
 
         return Encoding.Unicode.GetString(output.ToArray())
-            .Split("\r\n");
+            .Split("\n");
     }
 
     public string[] GetAllWords(Model model)
