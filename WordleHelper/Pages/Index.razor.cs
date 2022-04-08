@@ -5,6 +5,8 @@ using WordleHelper.Code;
 
 public partial class Index
 {
+    public readonly string[] LanguageOptions = { "English", "Spanish" };
+
     private Model Model { get; set; } = new();
 
 #pragma warning disable CS8618 // Non-nullable field must contain a non-null value when exiting constructor. Consider declaring as nullable.

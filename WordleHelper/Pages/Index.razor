@@ -5,7 +5,7 @@
 <EditForm Model=@Model OnSubmit=@FormSubmitted>
 
     <InputRadioGroup @bind-Value="Model.Language">
-    @foreach (var option in Model.LanguageOptions)
+    @foreach (var option in LanguageOptions)
     {
         <InputRadio Value="option" id="@option" /> <label class="form-check-label" for="@option">@option</label> <br />
     }
