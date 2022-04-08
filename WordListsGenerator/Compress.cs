@@ -1,4 +1,4 @@
-﻿namespace WordleHelperApp;
+﻿namespace WordListsGenerator;
 
 using ICSharpCode.SharpZipLib.BZip2;
 using System.IO.Compression;

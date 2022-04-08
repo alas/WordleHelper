@@ -5,7 +5,7 @@ VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordleHelper", "WordleHelper\WordleHelper.csproj", "{87A931D3-2AA5-46B3-8A7E-63B574377A4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordleHelperApp", "WordleHelperApp\WordleHelperApp.csproj", "{21A273FC-19CF-48D6-8EBB-08B1A9813810}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordListsGenerator", "WordListsGenerator\WordListsGenerator.csproj", "{987BAA2B-A702-4181-A374-E90AE7BBBECA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{87A931D3-2AA5-46B3-8A7E-63B574377A4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87A931D3-2AA5-46B3-8A7E-63B574377A4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87A931D3-2AA5-46B3-8A7E-63B574377A4F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{21A273FC-19CF-48D6-8EBB-08B1A9813810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{21A273FC-19CF-48D6-8EBB-08B1A9813810}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{21A273FC-19CF-48D6-8EBB-08B1A9813810}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{21A273FC-19CF-48D6-8EBB-08B1A9813810}.Release|Any CPU.Build.0 = Release|Any CPU
+		{987BAA2B-A702-4181-A374-E90AE7BBBECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{987BAA2B-A702-4181-A374-E90AE7BBBECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{987BAA2B-A702-4181-A374-E90AE7BBBECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{987BAA2B-A702-4181-A374-E90AE7BBBECA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

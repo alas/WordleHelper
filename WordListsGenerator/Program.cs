@@ -1,9 +1,10 @@
 ﻿using System.IO.Compression;
-using WordleHelperApp;
+using WordListsGenerator;
 
 var english = WordList.GetAllWordsEnglish();
 var spanish = WordList.GetAllWordsSpanish();
 
+/*
 File.WriteAllText(@"english bzip2 4096.txt", Compress.ToBZip2Async(english).Result);
 File.WriteAllText(@"spanish bzip2 4096.txt", Compress.ToBZip2Async(spanish).Result);
 
@@ -36,8 +37,8 @@ File.WriteAllText(@"spanish bzip2 9.txt", Compress.ToBZip2Async(spanish, 9).Resu
 
 File.WriteAllText(@"english gzip small.txt", Compress.ToGzipAsync(english).Result);
 File.WriteAllText(@"spanish gzip small.txt", Compress.ToGzipAsync(spanish).Result);
+*/
 
-//this creates the most compact result
+//this generates the smallest files
 File.WriteAllText(@"english gzip optimal.txt", Compress.ToGzipAsync(english, CompressionLevel.Optimal).Result);
 File.WriteAllText(@"spanish gzip optimal.txt", Compress.ToGzipAsync(spanish, CompressionLevel.Optimal).Result);
-

@@ -1,4 +1,4 @@
-﻿namespace WordleHelperApp;
+﻿namespace WordListsGenerator;
 
 using System;
 using System.Linq;
