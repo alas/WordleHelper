@@ -2,7 +2,10 @@
 
 var english = WordList.GetAllWordsEnglish();
 var spanish = WordList.GetAllWordsSpanish();
+var spanishFull = WordList.GetAllWordsSpanishFull();
+var lunfardo = WordList.GetAllWordsLunfardo();
 
-//this generates the smallest files not counting brotli that is not supported on platform: browser even when js blazor is loaded using brotli...
-File.WriteAllText(@"english gzip Optimal.txt", english.ToGzipAsync().Result);
-File.WriteAllText(@"spanish gzip Optimal.txt", spanish.ToGzipAsync().Result);
+File.WriteAllText(@"english.gzip.txt", english.ToGzipAsync().Result);
+File.WriteAllText(@"spanish.gzip.txt", spanish.ToGzipAsync().Result);
+File.WriteAllText(@"spanishFull.gzip.txt", spanishFull.ToGzipAsync().Result);
+File.WriteAllText(@"lunfardo.gzip.txt", lunfardo.ToGzipAsync().Result);

@@ -7,10 +7,12 @@ using System.Text.RegularExpressions;
 
 internal static class WordList
 {
-    public static string GetAllWordsEnglish() => GetAllWords(@"WordLists\English", false);
-    public static string GetAllWordsSpanish() => GetAllWords(@"WordLists\Spanish", true);
+    public static string GetAllWordsEnglish() => GetAllWords(@"WordLists\English", false, true, true);
+    public static string GetAllWordsSpanish() => GetAllWords(@"WordLists\Spanish", true, true, true);
+    public static string GetAllWordsSpanishFull() => GetAllWords(@"WordLists\Spanish", true, false, true);
+    public static string GetAllWordsLunfardo() => GetAllWords(@"WordLists\Lunfardo", true, false, false);
 
-    private static string GetAllWords(string path, bool isSpanish)
+    private static string GetAllWords(string path, bool isSpanish, bool filterLength, bool sort)
     {
         var filePaths = Directory.GetFiles(path, "*.*", SearchOption.AllDirectories);
         StringBuilder sb = new();
@@ -19,11 +21,11 @@ internal static class WordList
             sb.Append(File.ReadAllText(filePath));
         }
         var allwords = sb.ToString();
-        var allwordsfiltered = FilterWords(allwords, isSpanish);
+        var allwordsfiltered = FilterWords(allwords, isSpanish, filterLength, sort);
         return allwordsfiltered;
     }
 
-    private static string FilterWords(string input, bool isSpanish)
+    private static string FilterWords(string input, bool isSpanish, bool filterLength, bool sort)
     {
         if (isSpanish)
         {
@@ -46,11 +48,13 @@ internal static class WordList
 
         var words = input.Split("\n")
             .Select(t => t.Trim().ToUpper())
-            .Where(t => new[] { 5, 6, 7 }.Contains(t.Length))
+            .Where(t => !filterLength || new[] { 5, 6, 7 }.Contains(t.Length))
             .Where(t => regexp.IsMatch(t))
             .Distinct()
-            .OrderBy(t => t)
             .ToArray();
+
+        if (sort)
+            Array.Sort(words);
 
         return String.Join("\n", words);
     }

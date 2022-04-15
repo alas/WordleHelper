@@ -5,6 +5,8 @@ using System.Text;
 
 internal static class Compress
 {
+    /// <param name="value"></param>
+    /// <param name="level">Optimal generates the smallest files not counting brotli that is not supported on platform: browser</param>
     public static async Task<string> ToGzipAsync(this string value, CompressionLevel level = CompressionLevel.Optimal)
     {
         var bytes = Encoding.Unicode.GetBytes(value);

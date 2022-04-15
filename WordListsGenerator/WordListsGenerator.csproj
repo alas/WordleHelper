@@ -15,6 +15,12 @@
     <None Update="WordLists\English\aspnetspell\English %28International%29.dic">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+    <None Update="WordLists\LunfardoSorted\Lunfardo.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="WordLists\Lunfardo\Lunfardo.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Update="WordLists\Spanish\aspnetspell\Espanol.dic">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
