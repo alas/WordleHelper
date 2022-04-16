@@ -7,12 +7,12 @@ using System.Text.RegularExpressions;
 
 internal static class WordList
 {
-    public static string GetAllWordsEnglish() => GetAllWords(@"WordLists\English", false, true, true);
-    public static string GetAllWordsSpanish() => GetAllWords(@"WordLists\Spanish", true, true, true);
-    public static string GetAllWordsSpanishFull() => GetAllWords(@"WordLists\Spanish", true, false, true);
-    public static string GetAllWordsLunfardo() => GetAllWords(@"WordLists\Lunfardo", true, false, false);
+    public static string GetAllWordsEnglish() => GetAllWords(@"WordLists\English", false, true, false);
+    public static string GetAllWordsSpanish() => GetAllWords(@"WordLists\Spanish", true, true, false);
+    public static string GetAllWordsSpanishFull() => GetAllWords(@"WordLists\Spanish", true, false, false);
+    public static string GetAllWordsLunfardo() => GetAllWords(@"WordLists\Lunfardo", true, false, true);
 
-    private static string GetAllWords(string path, bool isSpanish, bool filterLength, bool sort)
+    private static string GetAllWords(string path, bool isSpanish, bool filterLength567, bool shuffle)
     {
         var filePaths = Directory.GetFiles(path, "*.*", SearchOption.AllDirectories);
         StringBuilder sb = new();
@@ -21,11 +21,11 @@ internal static class WordList
             sb.Append(File.ReadAllText(filePath));
         }
         var allwords = sb.ToString();
-        var allwordsfiltered = FilterWords(allwords, isSpanish, filterLength, sort);
+        var allwordsfiltered = FilterWords(allwords, isSpanish, filterLength567, shuffle);
         return allwordsfiltered;
     }
 
-    private static string FilterWords(string input, bool isSpanish, bool filterLength, bool sort)
+    private static string FilterWords(string input, bool isSpanish, bool filterLength567, bool shuffle)
     {
         if (isSpanish)
         {
@@ -46,15 +46,21 @@ internal static class WordList
 
         Regex regexp = new(@"^[A-ZÑ]+$", RegexOptions.Compiled);
 
+        var filter = filterLength567 ? new[] { 5, 6, 7 } : new[] { 5, 6, 7, 8, 9, 10 };
+
         var words = input.Split("\n")
             .Select(t => t.Trim().ToUpper())
-            .Where(t => !filterLength || new[] { 5, 6, 7 }.Contains(t.Length))
+            .Where(t => filter.Contains(t.Length))
             .Where(t => regexp.IsMatch(t))
             .Distinct()
+            .OrderBy(t => t)
             .ToArray();
 
-        if (sort)
-            Array.Sort(words);
+        if (shuffle)
+        {
+            Random rnd = new();
+            words = words.OrderBy(x => rnd.Next()).ToArray();
+        }
 
         return String.Join("\n", words);
     }
