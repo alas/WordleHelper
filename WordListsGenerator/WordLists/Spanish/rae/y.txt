@@ -1,6 +1,6 @@
-y1
-y2
-y3
+y
+y
+y
 ya
 yaacabó
 yaba
@@ -45,8 +45,8 @@ yale
 yálmana
 yamao
 yámbico, ca
-yambo1
-yambo2
+yambo
+yambo
 yambú
 yampa
 yana
@@ -58,8 +58,8 @@ yanilla
 yanki
 yanomami
 yanta
-yantar1
-yantar2
+yantar
+yantar
 yapa
 yapar
 yapú
@@ -73,8 +73,8 @@ yarda
 yardero
 yare
 yarey
-yaro1
-yaro2
+yaro
+yaro
 yaruro, ra
 yatagán
 yataí
@@ -88,8 +88,8 @@ yatrogénico, ca
 yautía
 yauyino, na
 yaxché
-yaya1
-yaya2
+yaya
+yaya
 yayo, ya
 ye
 yebo
@@ -225,8 +225,8 @@ yugoeslavo, va
 yugoslavo, va
 yuguero
 yugueta
-yugular1
-yugular2
+yugular
+yugular
 yumbo, ba
 yumeco, ca
 yunga

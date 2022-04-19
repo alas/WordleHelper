@@ -1,7 +1,7 @@
 b
 baalita
-baba1
-baba2
+baba
+baba
 babaco
 babada
 babadero
@@ -42,16 +42,12 @@ baboso, sa
 babucha
 babuchero, ra
 babuino
-baby-sitter
-baca1
-baca2
 bacalada
 bacaladero, ra
 bacaladilla
 bacalao
 bacallao
-bacán1, na
-bacán2
+bacán
 bacanal
 bacano, na
 bacanora
@@ -67,8 +63,8 @@ bachaco, ca
 bachata
 bachatear
 bachatero, ra
-bache1
-bache2
+bache
+bache
 bacheado, da
 bachear
 bacheo
@@ -153,8 +149,6 @@ baenero, ra
 baezano, na
 bafle
 bagá
-baga1
-baga2
 bagacera
 bagaces
 bagacillo
@@ -193,8 +187,8 @@ bahreiní
 bahúno, na
 baída
 baifo, fa
-baila1
-baila2
+baila
+baila
 bailable
 bailadero, ra
 bailador, ra
@@ -203,8 +197,8 @@ bailante
 bailaor, ra
 bailar
 bailarín, na
-baile1
-baile2
+baile
+baile
 bailecito
 bailejo
 bailete
@@ -249,14 +243,14 @@ bajín
 bajines
 bajini
 bajío, a
-bajista1
-bajista2
+bajista
+bajista
 bajoaragonés, sa
 bajoca
 bajo, ja
 bajomedieval
-bajón1
-bajón2
+bajón
+bajón
 bajonado
 bajonazo
 bajoncillo
@@ -314,8 +308,8 @@ balastar
 balasto
 balastro
 balata
-balate1
-balate2
+balate
+balate
 balausta
 balaustra
 balaustrado, da
@@ -344,24 +338,20 @@ balconcillo
 balconear
 balconera
 balconería
-balda1
-balda2
-balda3
-balda4
-baldado1
-baldado2, da
-baldado3
+balda
+baldada
+baldado
 baldadura
 baldamiento
 baldaquín
 baldaquino
 baldar
 baldazo
-balde1
-balde2
+balde
+balde
 baldear
-baldeo1
-baldeo2
+baldeo
+baldeo
 baldés
 baldíamente
 baldío, a
@@ -372,8 +362,8 @@ baldonamiento
 baldonar
 baldonear
 baldono, na
-baldosa1
-baldosa2
+baldosa
+baldosa
 baldosador
 baldosar
 baldosín
@@ -383,15 +373,15 @@ balduque
 balea
 baleador, ra
 baleadura
-balear1
-balear2
-balear3
+balear
+balear
+balear
 baleárico, ca
 baleario, ria
 balele
 balénido
-baleo1
-baleo2
+baleo
+baleo
 balería
 balerío
 balero
@@ -450,8 +440,8 @@ balota
 balotada
 balotaje
 balotar
-balsa1
-balsa2
+balsa
+balsa
 balsadera
 balsadero
 balsamera
@@ -466,7 +456,7 @@ balsear
 balsera
 balsería
 balsero, ra
-balso1
+balso
 balso2, sa
 balsón
 balsopeto
@@ -480,10 +470,7 @@ balumbo
 balume
 balurde
 balzaquiano, na
-bamba1
-bamba2
-bamba3
-Bamba4
+bamba
 bambador
 bambalear
 bambalina
@@ -534,16 +521,16 @@ bancarizar
 bancarrota
 banco
 bancocracia
-banda1
-banda2
-banda3
+banda
+banda
+banda
 bandada
 bandarra
 bandarria
 bandazo
 bandeado, da
-bandear1
-bandear2
+bandear
+bandear
 bandeja
 bandejar
 bandeo
@@ -564,20 +551,20 @@ bandidaje
 bandidencia
 bandidismo
 bandido, da
-bandín1
-bandín2
+bandín
+bandín
 bandir
-bando1
-bando2
-bandola1
-bandola2
-bandolera2
-bandolera3
+bando
+bando
+bandola
+bandola
+bandolera
+bandolera
 bandolerísmo
 bandolero, ra
 bandolín
-bandolina1
-bandolina2
+bandolina
+bandolina
 bandolinista
 bandolón
 bandolonista
@@ -642,8 +629,8 @@ báquico, ca
 baquio
 báquira
 báquiro
-bar1
-bar2
+bar
+bar
 baraca
 baracaldés, sa
 barahá
@@ -656,15 +643,15 @@ barajadura
 barajar
 baraje
 barajear
-barajo1
-barajo2
+barajo
+barajo
 barajón
 barajustada
 barajustar
 barajuste
 baraka
-baranda1
-baranda2
+baranda
+baranda
 barandado
 barandaje
 barandal
@@ -672,8 +659,8 @@ barandilla
 barangay
 barangayán
 baraña
-barata1
-barata2
+barata
+barata
 baratador, ra
 baratamente
 baratear
@@ -694,8 +681,8 @@ barba
 barbacana
 barbacoa
 barbacuá
-barbada1
-barbada2
+barbada
+barbada
 barbadense
 barbado, da
 barbaja
@@ -728,8 +715,8 @@ barbera
 barbería
 barberil
 barbero1, ra
-barbero2
-barbero2
+barbero
+barbero
 barberol
 barbeta
 barbián, na
@@ -769,8 +756,8 @@ barboquejo
 barbotar
 barbote
 barboteadura
-barbotear1
-barbotear2
+barbotear
+barbotear
 barboteo
 barbotina
 barbudo, da
@@ -805,8 +792,8 @@ barco
 barcolongo
 barcoluengo
 barcón
-barda1
-barda2
+barda
+barda
 bardaal
 bardado1, da
 bardado2, da
@@ -820,8 +807,8 @@ bardariota
 bardera
 bardero
 bardiza
-bardo1
-bardo2
+bardo
+bardo
 bardoma
 bardomera
 bareiní
@@ -831,8 +818,8 @@ baremo
 bareque
 bareta
 bargueño, ña
-barí1
-barí2
+barí
+barí
 baria
 baría
 bariátrico, ca
@@ -894,7 +881,7 @@ barracón
 barracuda
 barrado, da
 barragán1, na
-barragán2
+barragán
 barragana
 barraganada
 barraganería
@@ -934,19 +921,19 @@ barrenillo
 barreno
 barreña
 barreño
-barrera1
-barrera2
+barrera
+barrera
 barrero
-barreta1
-barreta2
+barreta
+barreta
 barrete
 barretear
 barretero
 barretina
 barretón
 barriada
-barrial1
-barrial2
+barrial
+barrial
 barrica
 barricada
 barrida
@@ -976,8 +963,8 @@ barrista
 barritar
 barrito
 barrizal
-barro1
-barro2
+barro
+barro
 barrocho
 barroco, ca
 barrón
@@ -1008,8 +995,8 @@ barzola
 barzoneada
 barzonear
 barzón, na
-basa1
-basa2
+basa
+basa
 basada
 basal
 basáltico, ca
@@ -1058,8 +1045,8 @@ bastante
 bastantear
 bastantemente
 bastanteo
-bastar1
-bastar2
+bastar
+bastar
 bastarda
 bastardar
 bastardear
@@ -1087,8 +1074,7 @@ bastión
 bastionar
 bastir
 bastitano, na
-basto1
-basto2, ta
+basto
 bastón
 bastonada
 bastonazo
@@ -1103,8 +1089,8 @@ basural
 basurear
 basurero, ra
 basurita
-bata1
-bata2
+bata
+bata
 batacazo
 bataclán
 bataclana
@@ -1136,11 +1122,11 @@ batea
 bateador1, ra
 bateador2, ra
 bateaguas
-batear1
-batear2
+batear
+batear
 batel
 batelero, ra
-bateo2
+bateo
 batería
 baterista
 batero, ra
@@ -1176,8 +1162,8 @@ batiporte
 batir
 batiscafo
 batista
-bato1
-bato2
+bato
+bato
 batola
 batolito
 batología
@@ -1186,8 +1172,8 @@ batracio
 batúa
 batucada
 batucar
-batuda1
-batuda2
+batuda
+batuda
 Batuecas
 batueco, ca
 batuquear
@@ -1219,8 +1205,8 @@ bauzador, ra
 bávaro, ra
 baya
 bayadera
-bayal1
-bayal2
+bayal
+bayal
 bayamés, sa
 bayamonés, sa
 bayano, na
@@ -1228,8 +1214,8 @@ bayarte
 bayeta
 bayetilla
 bayetón
-bayoco1
-bayoco2
+bayoco
+bayoco
 bayón
 Bayona
 bayonense
@@ -1243,8 +1229,8 @@ bayú
 bayúa
 bayuca
 bayuncada
-bayunco1
-bayunco2
+bayunco
+bayunco
 baza
 bazar
 bazofia
@@ -1256,8 +1242,8 @@ bazuco
 bazuquear
 bazuqueo
 bazuquero, ra
-be1
-be2
+be
+be
 beaciense
 beamontés, sa
 bearnés, sa
@@ -1280,8 +1266,8 @@ bebedizo, za
 bebedor, ra
 bebendurria
 bebentina
-beber1
-beber2
+beber
+beber
 bebercio
 bebería
 beberrón, na
@@ -1359,7 +1345,7 @@ bejuquear
 bejuquero
 bejuquilla
 bejuquillo
-bel1
+bel
 bel2, la
 belcantismo
 belcantista
@@ -1529,8 +1515,8 @@ berkelio
 berlandina
 berlanga
 berlín
-berlina1
-berlina2
+berlina
+berlina
 berlinés, sa
 berlinga
 berlingar
@@ -1609,8 +1595,8 @@ bestialismo
 bestializarse
 bestialmente
 bestiario
-bestión1
-bestión2
+bestión
+bestión
 bestiún
 bestoba
 bestoga
@@ -1626,8 +1612,8 @@ besuguete
 besuqueador, ra
 besuquear
 besuqueo
-beta1
-beta2
+beta
+beta
 betabel
 betabloqueante
 betarraga
@@ -1789,8 +1775,8 @@ bienmandado, da
 bienmesabe
 bienoliente
 bienquerencia
-bienquerer1
-bienquerer2
+bienquerer
+bienquerer
 bienquistar
 bienquisto, ta
 bienteveo
@@ -2144,8 +2130,8 @@ bizcuerno, na
 bizma
 bizmar
 bizna
-biznaga1
-biznaga2
+biznaga
+biznaga
 biznagal
 biznieto, ta
 bizquear
@@ -2168,16 +2154,16 @@ blancuzco, ca
 blanda
 blandamente
 blandeador, ra
-blandear1
-blandear2
+blandear
+blandear
 blandengue
 blandenguería
 blandense
 blandeza
 blandicia
 blandicioso, sa
-blandir1
-blandir2
+blandir
+blandir
 blando, da
 blandón
 blanducho, cha
@@ -2313,8 +2299,8 @@ bocadillo
 bocadito
 bocado
 bocajarro
-bocal1
-bocal2
+bocal
+bocal
 bocallave
 bocamanga
 bocamina
@@ -2324,8 +2310,8 @@ bocapí
 bocarada
 bocarda
 bocarriba
-bocarte1
-bocarte2
+bocarte
+bocarte
 bocata
 bocateja
 bocatijera
@@ -2347,12 +2333,8 @@ bocezo
 bocha
 bochar
 bochazo
-boche1
-boche2
-boche3
-boche4
-bochín1
-bochín2
+boche
+bochín
 bochinche
 bochinchero, ra
 bochista
@@ -2404,22 +2386,22 @@ bofetán
 bofetón
 bofia
 bofo, fa
-boga1
-boga2
-boga3
+boga
+boga
+boga
 bogada
 bogador, ra
 bogar
-bogavante1
-bogavante2
+bogavante
+bogavante
 bogey
 bogie
 bogotano, na
 bogueta
 bohardilla
 bohehuelaco
-bohemia1
-Bohemia2
+bohemia
+Bohemia
 bohemiano, na
 bohémico, ca
 bohemio, mia
@@ -2438,12 +2420,12 @@ boina
 boira
 boiserie
 boîte
-boj1
-boj2
-boja1
-boja2
-bojar1
-bojar2
+boj
+boj
+boja
+boja
+bojar
+bojar
 bojazo
 boje
 bojear
@@ -2453,9 +2435,9 @@ bojiganga
 bojo
 bojote
 bojotero
-bol1
-bol2
-bol3
+bol
+bol
+bol
 bola
 bolacero, ra
 bolacha
@@ -2478,34 +2460,34 @@ boldina
 boldo
 boleada
 boleadora
-bolear1
-bolear2
+bolear
+bolear
 bolencia
 boleo
-bolera1
-bolera2
+bolera
+bolera
 bolerista
 bolero, ra
 boleta
-boletear1
-boletear2
+boletear
+boletear
 boleteo
 boletería
-boletero1
+boletero
 boletero2, ra
 boletín
 boletinar
-boleto1
-boleto2
+boleto
+boleto
 boletus
 boli
 boliaco
 bolichada
-boliche1
-boliche2
+boliche
+boliche
 bolichear
 bolicheo
-bolichero1
+bolichero
 bolichero2, ra
 bolicho
 bólido
@@ -2532,8 +2514,8 @@ bolivianismo
 boliviano, na
 bolla
 bolladura
-bollar1
-bollar2
+bollar
+bollar
 bollecer
 bollén
 bollera
@@ -2542,20 +2524,20 @@ bollero, ra
 bolliciar
 bollicio
 bollir
-bollo1
-bollo2
+bollo
+bollo
 bollón
 bollonado, da
-bolo1
-bolo2
-bolo3
+bolo
+bolo
+bolo
 bolo4, la
 bololo, la
 bolón
 bolonio
 boloñés, sa
-bolsa1
-bolsa2
+bolsa
+bolsa
 bolsada
 bolsas
 bolseada
@@ -2568,8 +2550,8 @@ bolsico
 bolsillo
 bolsín
 bolsiquear
-bolsista1
-bolsista2
+bolsista
+bolsista
 bolso
 bolsón
 bolsor
@@ -2591,8 +2573,8 @@ bombasí
 bombástico, ca
 bombazo
 bombé
-bombear1
-bombear2
+bombear
+bombear
 bombeo
 bomberil
 bombero, ra
@@ -2602,7 +2584,7 @@ bombillo
 bombín
 bombo, ba
 bombón
-bombón2
+bombón
 bombona
 bombonaje
 bombonera
@@ -2652,7 +2634,7 @@ bonista
 bonítalo
 bonitamente
 bonitero, ra
-bonito1
+bonito
 bonito2, ta
 bonitura
 bonizal
@@ -2698,8 +2680,8 @@ boquihundido, da
 boquilla
 boquillero, ra
 boquimuelle
-boquín1
-boquín2
+boquín
+boquín
 boquinatural
 boquinegro, gra
 boquino, na
@@ -2735,17 +2717,17 @@ borceguinería
 borceguinero, ra
 borcelano, na
 borcellar
-borda1
-borda2
-bordada1
-bordada2
+borda
+borda
+bordada
+bordada
 bordadillo
 bordado
 bordador, ra
 bordadura
 bordar
-borde1
-borde2
+borde
+borde
 bordear
 bordelés, sa
 bordillo
@@ -2779,15 +2761,15 @@ borlilla
 borlón
 borlotero, ra
 borna
-borne1
-borne2
-borne3
+borne
+borne
+borne
 borneadizo, za
 borneadura
-bornear1
-bornear2
-borneo1
-borneo2
+bornear
+bornear
+borneo
+borneo
 bornero, ra
 borní
 bornizo
@@ -2796,8 +2778,8 @@ borona
 borondangan
 boronero
 boronía
-borra1
-borra2
+borra
+borra
 borracha
 borrachada
 borrachales
@@ -2842,8 +2824,8 @@ borriquero, ra
 borriqueta
 borriquete
 borrominesco, ca
-borrón1
-borrón2
+borrón
+borrón
 borroncillo
 borronear
 borroñoso, sa
@@ -2854,8 +2836,8 @@ borrufalla
 borrumbada
 bortal
 borto
-boruca1
-boruca2
+boruca
+boruca
 boruga
 borujo
 borujón
@@ -2884,8 +2866,8 @@ bostar
 bostear
 bostezador, ra
 bosticar
-bota1
-bota2
+bota
+bota
 botadero
 botado, da
 botador, ra
@@ -2914,12 +2896,7 @@ botarga
 botasilla
 botavante
 botavara
-bote1
-bote2
-bote3
-bote4
-bote5
-bote6
+bote
 boteal
 botear
 botecario
@@ -2932,11 +2909,11 @@ botellita
 botellón
 botería
 botero
-botero2
-botero3
+botero
+botero
 botial
-botica1
-botica2
+botica
+botica
 boticaje
 boticario, ria
 botifarra
@@ -2951,20 +2928,20 @@ botilla
 botiller
 botillería
 botillero
-botillo1
-botillo2
-botín1
-botín2
+botillo
+botillo
+botín
+botín
 botina
 botinería
-botinero1
+botinero
 botiondo, da
 botiquería
 botiquín
 botito
 botivoleo
-boto1
-boto2
+boto
+boto
 boto3, ta
 botocudo, da
 botonadura
@@ -2994,8 +2971,8 @@ bóveda
 bovedilla
 bóvido, da
 bovino, na
-box1
-box2
+box
+box
 boxeador, ra
 boxear
 boxeo
@@ -3003,13 +2980,13 @@ bóxer
 boxístico, ca
 boxito, ta
 boy
-boya1
-boya2
+boya
+boya
 boyacense
 boyada
 boyal
-boyante1
-boyante2
+boyante
+boyante
 boyar
 boyarda
 boyardo
@@ -3035,11 +3012,11 @@ bracamarte
 bracarense
 braceada
 braceador, ra
-braceaje1
-braceaje2
-bracear1
-bracear2
-braceo1
+braceaje
+braceaje
+bracear
+bracear
+braceo
 bracero, ra
 bracete
 bracil
@@ -3054,10 +3031,10 @@ bradicardia
 bradilalia
 bradipepsia
 bradita
-braer2
+braer
 brafonera
-braga1
-braga2
+braga
+braga
 bragada
 bragado, da
 bragadura
@@ -3113,8 +3090,8 @@ brasca
 brasear
 brasero
 brasier
-brasil1
-Brasil2
+brasil
+Brasil
 brasilado, da
 brasileño, ña
 brasilero, ra
@@ -3144,8 +3121,8 @@ bravura
 braza
 brazada
 brazado
-brazaje1
-brazaje2
+brazaje
+brazaje
 brazal
 brazalete
 braznar
@@ -3154,15 +3131,15 @@ brazola
 brazolargo
 brazuelo
 brea
-break1
-break2
+break
+break
 break dance
-brear1
+brear
 brebaje
 brebajo
 breca
-brecha1
-brecha2
+brecha
+brecha
 brechero
 brechtiano, na
 breco, ca
@@ -3174,25 +3151,25 @@ bregar
 breguero, ra
 brejeta
 bren
-brenca1
-brenca2
+brenca
+brenca
 breña
 breñal
 breñoso, sa
-breque1
-breque2
+breque
+breque
 brequero
 brerotano
 bresca
 brescar
 bretador
 bretaña
-brete1
-brete2
+brete
+brete
 breteador, ra
 bretear
 bretel
-bretón1
+bretón
 bretón2, na
 bretoniano, na
 bretónica
@@ -3206,8 +3183,8 @@ brevete
 breviario 
 brezal
 brezar
-brezo1
-brezo2
+brezo
+brezo
 briago, ga
 brial
 briba
@@ -3274,8 +3251,8 @@ bríos
 briosamente
 briozoo
 briqueta
-brisa1
-brisa2
+brisa
+brisa
 brisar
 brisca
 briscado, da
@@ -3288,14 +3265,14 @@ brisura
 británica
 británico, ca
 britano, na
-briza1
-briza2
+briza
+briza
 brizar
 brizna
 briznoso, sa
 brneplácito
-broa1
-broa2
+broa
+broa
 broca
 brocado, da
 brocadura
@@ -3308,8 +3285,8 @@ brocatel
 brocearse
 brocense
 broceo
-brocha1
-brocha2
+brocha
+brocha
 brochada
 brochado, da
 brochadura
@@ -3318,8 +3295,8 @@ brochazo
 broche
 brocheta
 brocho, cha
-brochón1
-brochón2
+brochón
+brochón
 brocino
 brócol
 brócoli
@@ -3331,8 +3308,8 @@ bróker
 brollador, ra
 brollar
 brollo
-broma1
-broma2
+broma
+broma
 bromar
 bromatología
 bromatológico, ca
@@ -3341,8 +3318,8 @@ bromazo
 bromear
 bromeliáceo, a
 bromista
-bromo1
-bromo2
+bromo
+bromo
 bromoso, sa
 bromuro
 bronca
@@ -3431,7 +3408,7 @@ brunca
 bruneano, na
 brunela
 brunete
-bruno1
+bruno
 bruno2, na
 bruñido, da
 bruñidor, ra
@@ -3444,10 +3421,10 @@ bruscadera
 bruscamente
 bruscate
 brusco1, ca
-brusco2
+brusco
 brusela
-bruselas1
-Bruselas2
+bruselas
+Bruselas
 bruselense
 brusquedad
 brusquero
@@ -3486,8 +3463,8 @@ bucal
 bucanero, ra
 bucaral
 bucare
-búcaro1
-búcaro2
+búcaro
+búcaro
 buccino
 buceador, ra
 bucear
@@ -3496,10 +3473,10 @@ bucelario
 buceo
 bucero
 buces
-bucha2
+bucha
 buchaca
 buchada
-buche1
+buche
 bucheta
 buchete
 buchín
@@ -3509,17 +3486,17 @@ buchón, na
 bucio
 bucle
 bucloso, sa
-buco1
-buco2
-buco3
+buco
+buco
+buco
 bucodental
 bucofaríngeo, a
-bucólica1
-bucólica2
+bucólica
+bucólica
 bucólico, ca
 bucolismo
-buda1
-buda2
+buda
+buda
 budare
 búdico, ca
 budín
@@ -3531,8 +3508,8 @@ bue
 buega
 bueitre
 buen
-buena1
-buena2
+buena
+buena
 buenaboya
 buenamente
 buenamoza
@@ -3546,12 +3523,12 @@ Buenos Aires
 buera
 buétago
 buetre
-buey1
-buey2
+buey
+buey
 bueyera
 bueyuno, na
-bufa1
-bufa2
+bufa
+bufa
 bufado
 bufador
 bufalino, na
@@ -3564,12 +3541,12 @@ bufarrón
 bufé
 bufeo
 bufet
-bufete1
-bufete2
+bufete
+bufete
 bufia
 bufido
 bufo, fa
-bufón1
+bufón
 bufón2, na
 bufonada
 bufonear
@@ -3643,8 +3620,8 @@ bulí
 búlico, ca
 bulimia
 bulímico, ca
-bulín1
-bulín2
+bulín
+bulín
 bulla
 bullabesa
 bullaje
@@ -3660,8 +3637,8 @@ bulliciosamente
 bullicioso, sa
 bullidor, ra
 bullir
-bullón1
-bullón2
+bullón
+bullón
 bulo
 bulón
 bulto
@@ -3703,8 +3680,8 @@ burdelesco, ca
 burdeos
 burdo, da
 burebano, na
-burel1
-burel2
+burel
+burel
 burelado
 bureo
 bureta
@@ -3784,8 +3761,8 @@ burusca
 burusco
 bus
 busarda
-busca1
-busca2
+busca
+busca
 buscabulla
 buscada
 buscador, ra
@@ -3800,8 +3777,8 @@ buscar
 buscarla
 buscarruidos
 buscavidas
-busco1
-busco2
+busco
+busco
 buscón, na
 busero, ra
 buseta
@@ -3846,11 +3823,11 @@ buz
 buzamiento
 búzano
 buzaque
-buzar1
-buzar2
+buzar
+buzar
 buzarda
 buzcorona
-buzo1
+buzo
 buzo2, za
 buzón
 buzonear

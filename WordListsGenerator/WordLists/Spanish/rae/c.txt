@@ -1,5 +1,5 @@
 c
-ca2
+ca
 caabildeo
 caacupeño, ña
 caaguaceño, ña
@@ -15,8 +15,8 @@ cabalgada
 cabalgador, ra
 cabalgadura
 cabalgamiento
-cabalgar1
-cabalgar2
+cabalgar
+cabalgar
 cabalgata
 cabalgazón
 cabalhuste
@@ -78,8 +78,8 @@ cabaza
 cabdal
 cabdillazgo
 cabdillo
-cabe1
-cabe2
+cabe
+cabe
 cabear
 cabécar
 cabeceado
@@ -87,8 +87,8 @@ cabeceador, ra
 cabeceamiento
 cabecear
 cabeceo
-cabecera1
-cabecera2
+cabecera
+cabecera
 cabecero, ra
 cabeciancho, cha
 cabeciblanco, ca
@@ -146,8 +146,8 @@ cabio
 cabizbajo, ja
 cabizcaído, da
 cabizmordido, da
-cable1
-cable2
+cable
+cable
 cableado
 cablear
 cablegama
@@ -159,8 +159,8 @@ cablerío
 cablero, ra
 cablieva
 cablote
-cabo1
-Cabo2
+cabo
+Cabo
 cabotaje
 caboverdiano, na
 cabra
@@ -171,8 +171,8 @@ cabrahigar
 cabrahígo
 cabrales
 cabrear
-cabreo1
-cabreo2
+cabreo
+cabreo
 cabrería
 cabrerizo, za
 cabrero1, ra
@@ -185,8 +185,8 @@ cabrilla
 cabrillear
 cabrilleo
 cabrío
-cabrio1
-cabrio2
+cabrio
+cabrio
 cabriola
 cabriolar
 cabriolé
@@ -227,8 +227,8 @@ cacalota
 cacalote
 cacán
 cacana
-cacao1
-cacao2
+cacao
+cacao
 cacaonance
 cacaopera
 cacaotal
@@ -248,8 +248,8 @@ cacatúa
 cacea
 cacear
 caceo
-cacera1
-cacera2
+cacera
+cacera
 cacereño, ña
 cacería
 cacerina
@@ -260,14 +260,14 @@ cacerolear
 caceroleo
 caceta
 cacha
-cacha1
-cacha2
+cacha
+cacha
 cachaciento1, ta
 cachaciento2, ta
 cachaco, ca
-cachada1
-cachada2
-cachada3
+cachada
+cachada
+cachada
 cachador, ra
 cachadura
 cachafaz
@@ -281,10 +281,7 @@ cachañear
 cachapa
 cachapera
 cachapoalino, na
-cachar1
-cachar2
-cachar3
-cachar4
+cachar
 cacharpa
 cacharpari
 cacharpas
@@ -307,7 +304,7 @@ cachaza
 cachazo
 cachazudo, da
 caché
-caché2
+caché
 cachear
 cachelo
 cachemir
@@ -369,9 +366,9 @@ cachito
 cachivache
 cachivachero, ra
 cachiza
-cacho1
-cacho2
-cacho3
+cacho
+cacho
+cacho
 cacho4, cha
 cachola
 cachón
@@ -390,8 +387,8 @@ cachua
 cachucha
 cachuchazo
 cachuchero
-cachucho1
-cachucho2
+cachucho
+cachucho
 cachuchudo, da
 cachudo, da
 cachuela
@@ -442,8 +439,8 @@ caculo
 cacumen
 cacuminal
 cacuy
-cada1
-cada2
+cada
+cada
 cadahalso
 cadaldía
 cadalecho
@@ -482,8 +479,8 @@ cadí
 cadiazgo
 cadillar
 cadillo
-cadira1
-cadira2
+cadira
+cadira
 cadireta
 cadmía
 cadmio
@@ -570,8 +567,8 @@ caíble
 caico
 caicobé
 caíd
-caída1
-caida2
+caída
+caida
 caído, da
 caifán
 caigua
@@ -605,8 +602,8 @@ cajel
 cajera
 cajería
 cajero, ra
-cajeta1
-cajeta2
+cajeta
+cajeta
 cajete
 cajetear
 cajetilla
@@ -629,9 +626,9 @@ cajuela
 cajuil
 cakchiquel
 cal
-cala1
-cala2
-cala3
+cala
+cala
+cala
 calaba
 calabacear
 calabacero, ra
@@ -655,8 +652,8 @@ calabó
 calabobos
 calabocero
 calabozaje
-calabozo1
-calabozo2
+calabozo
+calabozo
 calabriada
 calabriar
 calabrotar
@@ -704,8 +701,8 @@ calambre
 calambreña
 calambuco, ca
 calambur
-calamento1
-calamento2
+calamento
+calamento
 calameño, ña
 calamidad
 calamiforme
@@ -713,8 +710,8 @@ calamillera
 calamina
 calaminta
 calamistro
-calamita1
-calamita2
+calamita
+calamita
 calamite
 calamitosamente
 calamitoso, sa
@@ -740,8 +737,8 @@ calandraco, ca
 calandrado
 calandrajo
 calandrar
-calandría1
-calandria2
+calandría
+calandria
 cálanis
 calaña
 Calañas
@@ -749,8 +746,8 @@ calañés, sa
 calaño, ña
 cálao
 calapié
-calar1
-calar2
+calar
+calar
 calarse
 calasancio, cia
 calate
@@ -783,7 +780,7 @@ calcaño
 calcañuelo
 calcar
 calcáreo, a
-calce2
+calce
 calceatense
 calcedonense
 calcedonio, nia
@@ -879,23 +876,23 @@ caleño2, ña
 caleño, ña
 calepino
 caler
-calera1
-calera2
+calera
+calera
 calería
 calero, ra
 calés
-calesa1
-calesa2
+calesa
+calesa
 calesera
 calesero
 calesín
 calesinero
 calesita
-caleta1
-caleta2
-caleta3
+caleta
+caleta
+caleta
 caletear
-caletero1
+caletero
 caletero2, ra
 caletre
 caletrero, ra
@@ -922,8 +919,8 @@ caliculado, da
 calicular
 calículo
 calicut
-calidad1
-calidad2
+calidad
+calidad
 calidez
 cálido1, da
 cálido2, da
@@ -947,7 +944,7 @@ california
 californiano, na
 califórnico, ca
 californio1, nia
-californio2
+californio
 cáliga
 calígine
 caliginoso, sa
@@ -957,8 +954,8 @@ caligráfico, ca
 calígrafo, fa
 caligrama
 calilla
-calima1
-calima2
+calima
+calima
 calimaco
 calimba
 calimbar
@@ -983,8 +980,8 @@ cáliz
 calizo,za
 callabuaya
 callacuece
-callada1
-callada2
+callada
+callada
 calladamente
 callado, da
 callador, ra
@@ -998,8 +995,8 @@ callar
 calle
 callear
 callecalle
-calleja1
-Calleja2
+calleja
+Calleja
 callejear
 callejeo
 callejero, ra
@@ -1138,8 +1135,8 @@ calzoncillo
 calzoneta
 calzonudo, da
 calzorras
-cama1
-cama2
+cama
+cama
 camacero
 camachile
 camachuelo
@@ -1206,8 +1203,8 @@ camastronería
 camastrón, na
 camatón
 camaza
-camba1
-camba2
+camba
+camba
 cambada
 cambado, da
 cambalachar
@@ -1290,19 +1287,19 @@ camelina
 camelio
 camelista
 camelístico, ca
-camella1
-camella2
+camella
+camella
 camellada
 camellar
 camellería
 camellero
 camello, lla
-camellón1
-camellón2
+camellón
+camellón
 camelo
 camelotado, da
-camelote1
-camelote2
+camelote
+camelote
 camelotina
 camelotón
 camembert
@@ -1321,8 +1318,8 @@ camias
 camíbar
 camilla
 camillero, ra
-camilo1
-camilo2
+camilo
+camilo
 camilucho, cha
 caminada
 caminadera
@@ -1361,8 +1358,8 @@ camoatí
 camocán
 camochar
 camomila
-camón1
-camón2
+camón
+camón
 camonadura
 camoncillo
 camorra
@@ -1467,10 +1464,10 @@ camuflar
 camulián, na
 camuña
 camuza
-can1
-can2
-cana1
-cana2
+can
+can
+cana
+cana
 canabíneo, a
 canaca
 canáceo, a
@@ -1522,14 +1519,14 @@ canasto
 canastro
 canavalia
 cáncamo
-cáncamo1
-cáncamo1
+cáncamo
+cáncamo
 cancamurria
 cancamusa
-cancán1
-cancán2
-cáncana1
-cáncana2
+cancán
+cancán
+cáncana
+cáncana
 cancaneado, da
 cancanear
 cancaneo
@@ -1560,8 +1557,8 @@ cancerología
 cancerológico, ca
 cancerólogo, ga
 canceroso, sa
-cancha1
-cancha2
+cancha
+cancha
 canchal
 canchalagua
 canchamina
@@ -1641,8 +1638,8 @@ candilera
 candilero
 candilillo
 candilón
-candinga1
-candinga2
+candinga
+candinga
 candiota
 candiote
 candiotera
@@ -1650,8 +1647,8 @@ candiotero
 cando
 candombe
 candombear
-candonga1
-candonga2
+candonga
+candonga
 candongo, ga
 candonguear
 candonguero, ra
@@ -1678,9 +1675,9 @@ canelilla
 canelillo
 canelina
 canelo, la
-canelón1
-canelón2
-canelón3
+canelón
+canelón
+canelón
 canequí
 canero
 canesú
@@ -1690,13 +1687,13 @@ canfínfora
 canfor
 canfora
 canforar
-canga1
-canga2
-canga3
+canga
+canga
+canga
 cangador
 cangahua
-cangalla1
-cangalla2
+cangalla
+cangalla
 cangallar
 cangallero
 cangallo
@@ -1722,8 +1719,8 @@ canibalesco
 canibalismo
 canibalístico, ca
 canibalizar
-canica1
-canica2
+canica
+canica
 caniche
 canicie
 canícula
@@ -1733,8 +1730,8 @@ cánido
 canido, da
 canijo, ja
 canil
-canilla1
-canilla2
+canilla
+canilla
 canillado, da
 canillero, ra
 canillita
@@ -1804,8 +1801,8 @@ cantable
 cantábrico, ca
 cántabro, bra
 cantaclaro
-cantada1
-cantada2
+cantada
+cantada
 cantadera
 cantadito
 cantado, da
@@ -1819,8 +1816,8 @@ cantamañanas
 cantamisa
 cantante
 cantaor, ra
-cantar1
-cantar2
+cantar
+cantar
 cántara
 cantarada
 cantaral
@@ -1843,7 +1840,7 @@ cantear
 cantel
 canteño, ña
 cantera
-canterano2
+canterano
 canterano, na
 cantería
 canterios
@@ -1876,11 +1873,11 @@ cantista
 cantitativo, va
 cantito
 cantizal
-canto1
-canto2
+canto
+canto
 cantollanista
 cantón
-cantón2
+cantón
 cantonado, da
 cantonal
 cantonalismo
@@ -1914,7 +1911,7 @@ canutazo
 canute
 canutero
 canutillo
-canuto1
+canuto
 canuto2, ta
 caña
 cañabrava
@@ -1940,7 +1937,7 @@ cañamar
 cañamazo
 cañamelar
 cañameño, ña
-cañamero1
+cañamero
 cañamero2, ra
 cañamiel
 cañamiza
@@ -1974,7 +1971,7 @@ cañeo
 cañera
 cañería
 cañerla
-cañerlo1
+cañerlo
 cañero, ra
 cañeta
 cañetano, na
@@ -2054,16 +2051,16 @@ caparazón
 caparidáceo, a
 caparídeo, a
 caparr
-caparra1
-caparra2
-caparra3
+caparra
+caparra
+caparra
 caparrón
 caparrosa
 capataz, za
 capaz
 capaza
-capazo1
-capazo2
+capazo
+capazo
 capazón
 capción
 capciosidad
@@ -2097,8 +2094,8 @@ caperuzado, da
 caperuzón
 caperuzo, za
 capeta
-capi1
-capi2
+capi
+capi
 capia
 capialzado
 capialzar
@@ -2171,8 +2168,8 @@ capítula
 capitulación
 capitulado, da
 capitulante
-capitular1
-capitular2
+capitular
+capitular
 capitulario
 capitularmente
 capítulo
@@ -2184,8 +2181,8 @@ capó
 capocho, cha
 capolado
 capolar
-capón1
-capón2
+capón
+capón
 capona
 caponada
 caponar
@@ -2194,8 +2191,8 @@ caporal
 caporalista
 capororoca
 caporos
-capota1
-capota2
+capota
+capota
 capotar
 capotazo
 capote
@@ -2218,7 +2215,7 @@ caprípedo, da
 capsaicina
 cápsula
 capsular
-capsular2
+capsular
 captación
 captador, ra
 captar
@@ -2255,12 +2252,12 @@ caquéctico, ca
 caquetense
 caquetío, a
 caquexia
-caqui1
-caqui2
-car1
-car2
-cara1
-cara2
+caqui
+caqui
+car
+car
+cara
+cara
 caraba
 carabalí
 carabao
@@ -2273,11 +2270,11 @@ carábido
 carabina
 carabinazo
 carabinera
-carabinero1
+carabinero
 carablanca
-cárabo1
-cárabo1
-cárabo2
+cárabo
+cárabo
+cárabo
 carabobeño, ña
 carabritear
 caraca
@@ -2347,9 +2344,9 @@ caramanchelero, ra
 caramanchón
 caramañola
 caramayola
-caramba1
-caramba2
-caramba3
+caramba
+caramba
+caramba
 carambada
 carámbano
 carambas
@@ -2369,11 +2366,11 @@ caramente
 caramera
 caramida
 caramilla
-caramillar1
-caramillar2
+caramillar
+caramillar
 caramilleras
-caramillo1
-caramillo2
+caramillo
+caramillo
 caramilloso, sa
 caramo
 caramora
@@ -2398,14 +2395,14 @@ caraos
 caraota
 carapa
 carapachayo, ya
-carapacho1
-carapacho2
+carapacho
+carapacho
 carapato
 carape
 carapico
 carapopela
-carapucho1
-carapucho2
+carapucho
+carapucho
 carapulca
 caraquense
 caraqueño, ña
@@ -2428,8 +2425,8 @@ caravana
 caravanero
 caravasar
 caravelino, na
-caray1
-caray2
+caray
+caray
 carayá
 carba
 carbalí
@@ -2486,9 +2483,9 @@ carburante
 carburar
 carburina
 carburo
-carca1
-carca2
-carca3
+carca
+carca
+carca
 carcacha
 carcaj
 carcajada
@@ -2496,7 +2493,7 @@ carcajear
 carcajeo
 carcamal
 carcamán1, na
-carcamán2
+carcamán
 cárcamo
 carcañal
 carcaño
@@ -2510,8 +2507,8 @@ cárcavo
 carcavón
 carcavonera
 carcavuezo
-carcax1
-carcax2
+carcax
+carcax
 carcaza
 cárcel
 carcelaje
@@ -2548,8 +2545,8 @@ cardancho
 cardar
 cardario
 cardelina
-cardenal1
-cardenal2
+cardenal
+cardenal
 cardenalato
 cardenalicio, cia
 cardencha
@@ -2569,8 +2566,8 @@ cardiálgico, ca
 cardias
 cárdigan
 cardillar
-cardillo1
-cardillo2
+cardillo
+cardillo
 cardimuelle
 cardina
 cardinal
@@ -2596,8 +2593,8 @@ carditis
 cardizal
 cardo
 cardón
-cardona1
-Cardona2
+cardona
+Cardona
 cardonal
 cardoncillo
 cardosanto
@@ -2784,8 +2781,8 @@ carmel
 carmelina
 carmelita
 carmelitano, na
-carmen1
-carmen2
+carmen
+carmen
 carmenador, ra
 carmenadura
 carmenar
@@ -2816,8 +2813,8 @@ carnavelesco, ca
 carnaza
 carnazón
 carné
-carne1
-carne2
+carne
+carne
 carneada
 carneador, ra
 carnear
@@ -2831,7 +2828,7 @@ carnerear
 carnerero
 carneril
 carnero
-carnero2
+carnero
 carneruno, na
 carnestolendas
 carnet
@@ -2889,9 +2886,9 @@ carótida
 carotina
 caroto
 carozo
-carpa1
-carpa2
-carpa3
+carpa
+carpa
+carpa
 carpaccio
 carpacho
 carpancho
@@ -2932,7 +2929,7 @@ carquerol
 carquesa
 carquiñol
 carra
-carraca1
+carraca
 carracacao
 carracero, ra
 carraco, ca
@@ -2940,15 +2937,15 @@ carracón
 Carracuca
 carrada
 carrafa
-carral1
-carral2
+carral
+carral
 carraleja
 carralero
 carramanchones
 carramarro
 carramplón
-carranca1
-carranca2
+carranca
+carranca
 carranclo, cla
 carrancudo, da
 carranza
@@ -2959,8 +2956,8 @@ carrao
 carraón
 carraplana
 carraquear
-carrasca1
-carrasca2
+carrasca
+carrasca
 carrascal
 carrasco
 carrascoso, sa
@@ -3010,8 +3007,8 @@ carretillada
 carretillero, ra
 carretillo
 carreto
-carretón1
-carretón2
+carretón
+carretón
 carretonada
 carretoncillo
 carretonero, ra
@@ -3047,7 +3044,7 @@ carrito
 carriza
 carrizada
 carrizal
-carro1
+carro
 carro2, rra
 carrocería
 carrocero, ra
@@ -3096,7 +3093,7 @@ cartapel
 cartazo
 carteado
 cartear
-cartel1
+cartel
 cartela
 cartelado, da
 cartelear
@@ -3185,9 +3182,9 @@ casapuerta
 casaquilla
 casaquín
 casaquinta
-casar1
-casar2
-casar3
+casar
+casar
+casar
 casariego, ga
 casarón
 casateniente
@@ -3262,8 +3259,8 @@ caserna
 caserón
 casero, ra
 caseta
-casete1
-casete2
+casete
+casete
 casetera
 casetero
 caseto
@@ -3408,11 +3405,11 @@ castreño, ña
 castrino, na
 castrismo
 castrista
-castro1
-castro2
+castro
+castro
 castrón
-casual1
-casual2
+casual
+casual
 casualidad
 casualismo
 casualista
@@ -3431,10 +3428,7 @@ casuístico, ca
 casulla
 casullero
 casus belli
-cata-
-cata2
-cata3
-cata4
+cata
 catabejas
 catabólico, ca
 catabolismo
@@ -3468,8 +3462,8 @@ cataléptico, ca
 catalersia
 catalicón
 catalicores
-catalina1
-catalina2
+catalina
+catalina
 catalineta
 catálisis
 catalítico, ca
@@ -3481,16 +3475,16 @@ catalogador, ra
 catalogar
 catálogo
 catalpa
-catalufa1
-catalufa2
+catalufa
+catalufa
 cataluja
 catamarán
 catamarqueño, ña
 catamenial
 catamiento
 catán
-catana1
-catana2
+catana
+catana
 catanga
 cataplasma
 cataplexia
@@ -3537,8 +3531,8 @@ catavinos
 catch
 cate
 cateada
-catear1
-catear2
+catear
+catear
 catecismo
 catecolamina
 catecú
@@ -3587,7 +3581,7 @@ catetear
 cateteo
 catéter
 cateterismo
-cateto1
+cateto
 cateto2, ta
 catetómetro
 catey
@@ -3608,13 +3602,13 @@ catita
 cativar
 cativí
 cativo1, va
-cativo2
+cativo
 catizumbada
 catizumbazo
 catleya
-cato1
-cato2
-cato3
+cato
+cato
+cato
 catódico
 cátodo
 catodonte
@@ -3624,8 +3618,8 @@ catolicismo
 católico, ca
 catolicón
 catolizar
-catón1
-catón2
+catón
+catón
 catoniano, na
 catonismo
 catonizar
@@ -3672,8 +3666,8 @@ caucionero, ra
 caucos
 cauda
 caudado, da
-caudal1
-caudal2
+caudal
+caudal
 caudalímetro
 caudalosamente
 caudaloso, sa
@@ -3702,8 +3696,8 @@ cauquenino, na
 cauri
 cauriense
 cauro
-causa1
-causa2
+causa
+causa
 causación
 causador, ra
 causahabiente
@@ -3723,8 +3717,8 @@ causticidad
 cáustico, ca
 cautamente
 cautela
-cautelar1
-cautelar2
+cautelar
+cautelar
 cauteloso, sa
 cauterio
 cauterización
@@ -3738,9 +3732,9 @@ cautividad
 cautivo, va
 cauz
 cauza
-cava1
-cava2
-cava3
+cava
+cava
+cava
 cavacote
 cavada
 cavadizo, za
@@ -3767,8 +3761,8 @@ cavernoso, sa
 cavero
 caveto
 caví
-cavia1
-cavia2
+cavia
+cavia
 cavial
 caviar
 cavicornio
@@ -3779,7 +3773,7 @@ cavilosidad
 caviloso, sa
 cavío
 cavitación
-cavo1
+cavo
 cavo2, va
 cavón
 cay
@@ -3806,15 +3800,15 @@ cayetés
 cayeyano, na
 cayo
 cayota
-cayote1
-cayote2
-cayuco1
+cayote
+cayote
+cayuco
 cayuco2, ca
 cayuela
 cayuquero, ra
 caz
-caza1
-caza2
+caza
+caza
 cazabe
 cazabobos
 cazabombardero
@@ -3848,8 +3842,8 @@ cazolero, ra
 cazoleta
 cazoletear
 cazoletero, ra
-cazón1
-cazón2
+cazón
+cazón
 cazonal
 cazonete
 cazorría
@@ -3865,8 +3859,8 @@ cazurro, rra
 cazuz
 CD
 CD-ROM
-ce1
-ce2
+ce
+ce
 cea
 ceajo, ja
 ceanoto
@@ -3877,11 +3871,11 @@ cebada
 cebadal
 cebadar
 cebadazo, za
-cebadera1
-cebadera2
+cebadera
+cebadera
 cebadería
 cebadero
-cebadero2
+cebadero
 cebadilla
 cebado, da
 cebador, ra
@@ -3896,8 +3890,8 @@ cebichero, ra
 cebil
 cebipero
 cebique
-cebo1
-cebo2
+cebo
+cebo
 cebolla
 cebollada
 cebollana
@@ -3924,8 +3918,8 @@ ceburro
 ceca
 cecal
 ceceante
-cecear1
-cecear2
+cecear
+cecear
 ceceo
 ceceoso, sa
 cechero
@@ -4020,15 +4014,15 @@ cejar
 ceje
 cejijunto, ta
 cejilla
-cejo1
-cejo2
+cejo
+cejo
 cejudo, da
 cejuela
 cejunto, ta
 cela
 celacanto
-celada1
-celada2
+celada
+celada
 celado, da
 celadón
 celador, ra
@@ -4036,9 +4030,9 @@ celaduría
 celaje
 celajería
 celambre
-celar1
-celar2
-celar3
+celar
+celar
+celar
 celasta
 celastráceo, a
 celastríneo, a
@@ -4072,9 +4066,9 @@ celeridad
 celeste
 celestial
 celestialmente
-celestina1
-celestina2
-celestina2
+celestina
+celestina
+celestina
 celestinaje
 celestinazgo
 celestinear
@@ -4102,8 +4096,8 @@ cellerizo
 cellisca
 cellisquear
 cello
-celo1
-celo2
+celo
+celo
 celofán 
 celoidina
 celoma
@@ -4150,8 +4144,8 @@ cemento
 cementoso, sa
 cemita
 cempasúchil
-cena1
-cena2
+cena
+cena
 cenacho
 cenáculo
 cenadero
@@ -4164,8 +4158,8 @@ cenagar
 cenagoso, sa
 cenal
 cenaoscuras
-cenar1
-cenar2
+cenar
+cenar
 cencapa
 cenceñada
 cencero, ra
@@ -4197,8 +4191,8 @@ cendrazo
 cenefa
 cenegar
 ceneque
-cenero1
-cenero2
+cenero
+cenero
 cenestesia
 cenestésico, ca
 cenete
@@ -4261,18 +4255,18 @@ centelleante
 centellear
 centelleo
 centén
-centena1
-centena2
+centena
+centena
 centenada
-centenal1
-centenal2
-centenar1
-centenar2
+centenal
+centenal
+centenar
+centenar
 centenario, ria
 centenaza
 centenero, ra
 centenilla
-centeno1
+centeno
 centeno2, na
 centenoso, sa
 centesimal
@@ -4323,8 +4317,8 @@ centris
 centrisco
 centrismo
 centrista
-centro1
-centro2
+centro
+centro
 centroafricano, na
 centroamericano, na
 centrobárico, ca
@@ -4361,8 +4355,8 @@ ceñidura
 ceñiglo
 ceñimiento
 ceñir
-ceño1
-ceño2
+ceño
+ceño
 ceñoso1, sa
 ceñoso2, sa
 ceñudo, da
@@ -4379,8 +4373,8 @@ cepilladura
 cepillar
 cepillo
 cepita
-cepo1
-cepo2
+cepo
+cepo
 cepola
 ceporrez
 ceporro
@@ -4417,8 +4411,8 @@ cerbatana
 cerbelo
 cerbero
 cerbillera
-cerca1
-cerca2
+cerca
+cerca
 cercado
 cercador, ra
 cercadura
@@ -4439,8 +4433,8 @@ cercenar
 cércene
 cérceno, na
 cercera
-cerceta1
-cerceta2
+cerceta
+cerceta
 cercha
 cerchar
 cerchearse
@@ -4451,12 +4445,12 @@ cerco
 cercopiteco
 cércopo
 cercote
-cerda1
-cerda2
+cerda
+cerda
 cerdada
 cerdamen
-cerdear1
-cerdear2
+cerdear
+cerdear
 cerdo, da
 cerdón, na
 cerdoso, sa
@@ -4550,16 +4544,16 @@ cerpa
 cerquillo
 cerra
 cerracatín
-cerrada1
-cerrada2
+cerrada
+cerrada
 cerradamente
 cerradero, ra
 cerradizo, za
 cerrado, da
 cerrador, ra
 cerradura
-cerraja1
-cerraja2
+cerraja
+cerraja
 cerrajear
 cerrajería
 cerrajerillo
@@ -4570,8 +4564,8 @@ cerramiento
 cerrar
 cerras
 cerrateño, ña
-cerrazón1
-cerrazón2
+cerrazón
+cerrazón
 cerrebojar
 cerrejón
 cerreño, ña
@@ -4672,8 +4666,8 @@ cese
 cesenés, sa
 cesible
 cesio
-cesión1
-cesión2
+cesión
+cesión
 cesionario, ria
 cesionista
 cesolfaút
@@ -4689,8 +4683,8 @@ cestaño
 cestería
 cesteril
 cestero, ra
-cesto1
-cesto2
+cesto
+cesto
 cestodo
 cestón
 cestonada
@@ -4714,7 +4708,7 @@ cetra
 cetrarina
 cetre
 cetrería
-cetrero1
+cetrero
 cetrero2, ra
 cetrino, na
 cetro
@@ -4734,8 +4728,8 @@ chacabucano, na
 chacal
 chacalete
 chacalín
-chácara1
-chácara2
+chácara
+chácara
 chacarera
 chacarería
 chacarero, ra
@@ -4744,9 +4738,9 @@ chacarrachaca
 chácena
 chacha
 chachá
-chacha1
-chacha2
-chacha3
+chacha
+chacha
+chacha
 chachachá
 chachacoma
 chachafruto
@@ -4761,11 +4755,11 @@ chacharear
 chacharero, ra
 chacharón, na
 chachay
-chachi1
-chachi2
+chachi
+chachi
 chacho1, cha
 chacho2, cha
-chacho3
+chacho
 chacina
 chacinería
 chacinero, ra
@@ -4902,8 +4896,8 @@ chamarón
 chamarra
 chamarreta
 chamarro
-chamba1
-chamba2
+chamba
+chamba
 chambaril
 chambeador, ra
 chambear
@@ -4940,10 +4934,10 @@ chamo, ma
 chamorra
 chamorrar
 chamorro, rra
-champa1
-champa2
+champa
+champa
 champán
-champán1
+champán
 champaña
 champañazo
 champar
@@ -4975,9 +4969,9 @@ chamuyo
 chan
 chaná
 chanada
-chanca1
-chanca2
-chanca3
+chanca
+chanca
+chanca
 chancacazo
 chancadora
 chancaquita
@@ -5027,9 +5021,9 @@ chanfla
 chanfle
 chanflear
 chanflón, na
-changa1
-changa2
-changa3
+changa
+changa
+changa
 changador
 changallo, lla
 changar
@@ -5058,8 +5052,8 @@ chanto
 chantre
 chantría
 chanza
-chanzoneta1
-chanzoneta2
+chanzoneta
+chanzoneta
 chanzonetero
 chañar
 chañaralino, na
@@ -5108,8 +5102,8 @@ chaperonear
 chaperón, na
 chapeta
 chapeteado, da
-chapetón1
-chapetón2
+chapetón
+chapetón
 chapetón3, na
 chapetonada
 chapia
@@ -5156,8 +5150,8 @@ chapupa
 chapurrar
 chapurrear
 chapurreo
-chapuz1
-chapuz2
+chapuz
+chapuz
 chapuza
 chapuzar
 chapuzas
@@ -5175,8 +5169,8 @@ chaqui
 chaquira
 charabán
 charabasca
-charada1
-charada2
+charada
+charada
 charal
 charamada
 charamasca
@@ -5240,8 +5234,8 @@ charra
 charrada
 charral
 charraludo, da
-charrán1
-charrán2
+charrán
+charrán
 charranada
 charrancito
 charranear
@@ -5259,14 +5253,14 @@ charrete
 charretera
 charriote
 charro, rra
-charrúa1
-charrúa2
+charrúa
+charrúa
 charrulo, la
 chárter
 chartismo
 chas
-chasca1
-chasca2
+chasca
+chasca
 chascada
 chascar
 chascarrillo
@@ -5296,17 +5290,17 @@ chatarra
 chatarrear
 chatarrería
 chatarrero, ra
-chatear1
-chatear2
+chatear
+chatear
 chatedad
 chatel
-chateo1
-chateo2
+chateo
+chateo
 chatero, ra
 chatino
 chatita
-chatón1
-chatón2
+chatón
+chatón
 chato, ta
 chatria
 chatungo, ga
@@ -5331,7 +5325,7 @@ chavetear
 chavetero
 chaviza
 chavó
-chavo1
+chavo
 chavo2, va
 chavola
 chavón, na
@@ -5344,10 +5338,10 @@ chayotera
 chaza
 chazador
 chazar
-chazo1
-chazo2
-che1
-che2
+chazo
+chazo
+che
+che
 cheada
 chebrón
 checa
@@ -5356,18 +5350,18 @@ cheche
 checheno, na
 chéchere
 checo1, ca
-checo2
+checo
 checoeslovaco, ca
 chef
 cheira
 cheje
 chele
 cheli
-chelín1
-chelín2
+chelín
+chelín
 chelista
-chelo1
-chelo2
+chelo
+chelo
 cheloso, sa
 chemicol
 chenca
@@ -5411,8 +5405,8 @@ chevió
 cheviot
 chevrón
 cheyene
-chía1
-chía2
+chía
+chía
 Chiapa
 chiapaneco, ca
 chiar
@@ -5434,9 +5428,9 @@ chicano, na
 chicarrero, ra
 chicarro
 chicarrón, na
-chicha1
-chicha2
-chicha3
+chicha
+chicha
+chicha
 chícharo
 chicharra
 chicharrar
@@ -5457,8 +5451,8 @@ chichera
 chichería
 chichero
 chichí
-chichi1
-chichi2
+chichi
+chichi
 chichicaste
 chichicastle
 chichicuilote
@@ -5508,7 +5502,7 @@ chicoriáceo, a
 chicorro
 chicotazo
 chicote1, ta
-chicote2
+chicote
 chicotear
 chicozapote
 chicuelina
@@ -5516,13 +5510,13 @@ chicuije
 chícura
 chido, da
 chifa
-chifla1
-chifla2
+chifla
+chifla
 chifladera
 chiflado, da
 chifladura
-chiflar1
-chiflar2
+chiflar
+chiflar
 chiflato
 chifle
 chifleta
@@ -5561,8 +5555,8 @@ chilca
 chilcal
 chilchote
 chilco
-chile1
-Chile2
+chile
+Chile
 chilena
 chilenidad
 chilenismo
@@ -5576,9 +5570,9 @@ chilindrinero, ra
 chilindrón
 chilipuca
 chilipuco
-chilla1
-chilla2
-chilla3
+chilla
+chilla
+chilla
 chilladera
 chillado
 chillador, ra
@@ -5588,9 +5582,9 @@ chillar
 chillera
 chillería
 chillido
-chillo1
+chillo
 chillo2, lla
-chillón1
+chillón
 chillón, na
 chill out
 chilmole
@@ -5599,8 +5593,8 @@ chilmotate
 chiloense
 chiloso, sa
 chilostra
-chilote1
-chilote2
+chilote
+chilote
 chilote3, ta
 chilpancingüeño, ña
 chilpayate, ta
@@ -5618,9 +5612,9 @@ chimba
 chimbador, ra
 chimbaguele
 chimbambas
-chimbo1
+chimbo
 chimbo2, ba
-chimbo3
+chimbo
 chimbo4, ba
 chimbolero
 chimbomba
@@ -5643,10 +5637,7 @@ chimú
 chimuchina
 chimuelo, la
 chin
-china1
-china2
-china3
-china4
+china
 chinaca
 chinacate
 chinaco
@@ -5657,8 +5648,8 @@ chinampero, ra
 chinandegano, na
 chinapo
 chinapopo
-chinar1
-chinar2
+chinar
+chinar
 chinarral
 chinarro
 chinaste
@@ -5683,15 +5674,15 @@ chinchero
 chincheta
 chinchilla
 chinchimén
-chinchín1
-chinchín2
-chinchín3
+chinchín
+chinchín
+chinchín
 chinchinear
 chinchinga
 chinchintor
-chinchón1
-chinchón2
-chinchón3
+chinchón
+chinchón
+chinchón
 chinchona
 chinchorrear
 chinchorrería
@@ -5735,7 +5726,7 @@ chinguirito
 chinín
 chinita
 chinito, ta
-chino1
+chino
 chino2, na
 chino3, na
 chinola
@@ -5751,7 +5742,7 @@ chipeado, da
 chipear
 chipén
 chipiar
-chipiar2
+chipiar
 chipichape
 chipichipi
 chipile
@@ -5874,8 +5865,8 @@ chirumbela
 chirumen
 chirusa
 chiruza
-chis1
-chis2
+chis
+chis
 chisa
 chiscar
 chiscarra
@@ -5927,20 +5918,20 @@ chistosamente
 chistoso, sa
 chistu
 chistulari
-chita1
-chita2
+chita
+chita
 chitar
-chite1
-chite2
+chite
+chite
 chiticalla
 chiticallando
-chito1
-chito2
+chito
+chito
 chitón
 chitreano, na
-chiva1
-chiva2
-chiva2
+chiva
+chiva
+chiva
 chivada
 chivado, da
 chival
@@ -5966,13 +5957,13 @@ chivirico
 chivital
 chivitero
 chivitil
-chivo1
+chivo
 chivo2, va
 chivón, na
 chivudo, da
 chiza
-cho1
-cho2
+cho
+cho
 choaba
 choapino, na
 choca
@@ -5985,24 +5976,22 @@ chocar
 chocarrear
 chocarrería
 chocarrero, ra
-chocha1
-chocha2
+chocha
+chocha
 chochada
 chochar
 chochear
 chochera
 chochero, ra
 chochez
-chocho1
-chocho2, cha
-chocho3
-chocho4
+chocha
+chocho
 chochocol
 chochón
 choclar
 choclillo
-choclo1
-choclo2
+choclo
+choclo
 choclonero, ra
 choclón, na
 choclotanda
@@ -6020,8 +6009,8 @@ chocolatero, ra
 chocolatín
 chocolatina
 chocolía
-chócolo1
-chócolo2
+chócolo
+chócolo
 chocón, na
 chocoso
 chocoya
@@ -6068,9 +6057,9 @@ chontaduro
 chontal
 chontaleño, ña
 chop
-chopa1
-chopa2
-chopa3
+chopa
+chopa
+chopa
 chopal
 chopalera
 chopazo
@@ -6080,10 +6069,10 @@ chopear
 chóped
 chopera
 chopito
-chopo1
-chopo3
-choque1
-choque2
+chopo
+chopo
+choque
+choque
 choquear
 choquezuela
 chorar
@@ -6108,13 +6097,13 @@ choricero, ra
 choripán
 chorizada
 chorizar
-chorizo1
+chorizo
 chorizo2, za
 chorla
 chorlitejo
 chorlito
 chorlo
-choro1
+choro
 choro2, ra
 chorompo, pa
 chorote
@@ -6167,7 +6156,7 @@ chozo
 chozpar
 chozpo
 chozpón, na
-chpete1
+chpete
 christmas
 chúa
 chubascada
@@ -6187,16 +6176,13 @@ chuchanga
 chuchango
 chuchazo
 chuchear
-chuchería2
-chuchería2
+chuchería
+chuchería
 chuchero1, ra
-chuchero2
+chuchero
 chuchito
-chucho1, cha
-chucho2
-chucho3
-chucho4
-chucho5
+chucha
+chucho
 chuchoca
 chuchoquear
 chuchoqueo
@@ -6219,8 +6205,8 @@ chufa
 chufar
 chufería
 chufero, ra
-chufeta1
-chufeta2
+chufeta
+chufeta
 chufla
 chuflar
 chuflay
@@ -6241,14 +6227,14 @@ chulear
 chuleo
 chulería
 chulesco, ca
-chuleta1
-chuleta2
+chuleta
+chuleta
 chuletada
-chuletón1
+chuletón
 chuletón2, na
 chulillo
-chulla1
-chullá2
+chulla
+chullá
 chullo
 chullpi
 chulo, la
@@ -6263,7 +6249,7 @@ chumbimba
 chumbimbo
 chumbivalcano, na
 chumbo1, ba
-chumbo2
+chumbo
 chuminada
 chumino
 chumpa
@@ -6281,13 +6267,13 @@ chungo, ga
 chungón, na
 chunguearse
 chungueo
-chuña1
-chuña2
+chuña
+chuña
 chuño
 chuñusco, ca
-chupa1
-chupa2
-chupa3
+chupa
+chupa
+chupa
 chupacabras
 chupachups
 chupacirios
@@ -6312,13 +6298,13 @@ chuparrosa
 chupatintas
 chupativo, va
 chupé
-chupe1
-chupe2
+chupe
+chupe
 chuperretear
 chuperreteo
-chupeta1
-chupeta2
-chupete2
+chupeta
+chupeta
+chupete
 chupetear
 chupeteo
 chupetilla
@@ -6339,16 +6325,16 @@ chuquiragua
 chuquisaqueño, ña
 chura
 churcha
-churco1
-churco2
+churco
+churco
 churdón
 churepo, pa
 churero, ra
 churla
 churlo
 churo
-churra1
-churra2
+churra
+churra
 churrar
 churrascar
 churrasco
@@ -6372,7 +6358,7 @@ churrinche
 churrioso, sa
 churritar
 churrito
-churro1
+churro
 churro2, rra
 churroso, sa
 churruguerismo
@@ -6415,7 +6401,7 @@ chuzar
 chuzazo
 chuznieto, ta
 chuzo
-chuzón1
+chuzón
 chuzón2, na
 chuzonada
 chuzonería
@@ -6462,8 +6448,8 @@ cíbolo, la
 cíborg
 ciborio
 cibucán
-cica1
-cica2
+cica
+cica
 cicadáceo, a
 cicádeo, a
 cicádido
@@ -6594,8 +6580,8 @@ cifosis
 cifra
 cifrado, da
 cifrar
-cigala1
-cigala2
+cigala
+cigala
 cigallo
 cigarra
 cigarral
@@ -6658,8 +6644,8 @@ cimarra
 cimarrón
 cimarronada
 cimate
-cimba1
-cimba2
+cimba
+cimba
 cimbado
 cimbalaria
 cimbalero, ra
@@ -6755,8 +6741,8 @@ cinefilia
 cinéfilo, la
 cinefórum
 cinegético, ca
-cinema1
-cinema2
+cinema
+cinema
 cinemascope
 cinemateca
 cinemático, ca
@@ -6782,8 +6768,8 @@ cingalés, sa
 cíngaro, ra
 cingiberáceo, a
 cinglado
-cinglar1
-cinglar2
+cinglar
+cinglar
 cingleta
 cíngulo
 cinia
@@ -6836,10 +6822,10 @@ ciperáceo, a
 cipión
 cipo
 cipolino, na
-cipotada1
-cipotada2
+cipotada
+cipotada
 cipotazo
-cipote1
+cipote
 cipote2, ta
 cipotero
 cipotón
@@ -6874,8 +6860,8 @@ circuitería
 circuito
 circulación
 circulante
-circular1
-circular2
+circular
+circular
 circularidad
 circularmente
 circulatorio, ria
@@ -6930,8 +6916,8 @@ cirineo, a
 cirio
 cirolero
 cirquero, ra
-cirro1
-cirro2
+cirro
+cirro
 cirrópodo
 cirrosis
 cirroso, sa
@@ -7023,8 +7009,8 @@ cítrico, ca
 citrícola
 citricultor
 citricultura
-citrina1
-citrina2
+citrina
+citrina
 citrino, na
 citrón
 ciudad
@@ -7053,8 +7039,8 @@ cizañador, ra
 cizañar
 cizañear
 cizañero, ra
-clac1
-clac2
+clac
+clac
 clachique
 claco
 clacote
@@ -7174,7 +7160,7 @@ clavelón
 claveque
 clavera
 clavería
-clavero1
+clavero
 clavero2, ra
 claveta
 clavete
@@ -7260,8 +7246,8 @@ cliniense
 clínker
 clinómetro
 clinopodio
-clip1
-clip2
+clip
+clip
 clípeo
 clíper
 clisado
@@ -7293,8 +7279,8 @@ clonar
 clónico, ca
 clonquí
 cloque
-cloquear1
-cloquear2
+cloquear
+cloquear
 cloqueo
 cloquera
 cloquero
@@ -7338,15 +7324,15 @@ cneoráceo, a
 cnidario
 cnmoción
 co-
-coa1
-coa2
-coa3
-coacción1
+coa
+coa
+coa
+coacción
 coaccionar va
 coacervación
 coacervar
 coach
-coación2
+coación
 coacreedor, ra
 coactividad
 coacusado, da
@@ -7393,8 +7379,8 @@ coartar
 coatí
 coautor, ra
 coaxial
-coba1
-coba2
+coba
+coba
 cobaltina
 cobalto
 cobaltoterapia
@@ -7426,9 +7412,9 @@ cobiza
 cobla
 cobo
 Cobos
-cobra1
-cobra2
-cobra3
+cobra
+cobra
+cobra
 cobrable
 cobradero, ra
 cobrado, da
@@ -7437,19 +7423,14 @@ cobramiento
 cobranza
 cobrar
 cobratorio, ria
-cobre1
-cobre2
+cobre
+cobre
 cobreado
 cobrear
 cobreño, ña
 cobrizo, za
 cobro
-coca1
-coca2
-coca3
-coca4
-coca5
-coca6
+coca
 cocacho
 cocada
 cocador, ra
@@ -7457,8 +7438,8 @@ cocaína
 cocainero, ra
 cocainomanía
 cocainómano, na
-cocal1
-cocal2
+cocal
+cocal
 cocalero, ra
 cocama
 cocar
@@ -7482,8 +7463,8 @@ cocedor, ra
 cócedra
 cocedura
 cocer
-cocha1
-cocha2
+cocha
+cocha
 cochabambino, na
 cochambre
 cochambrería
@@ -7493,15 +7474,15 @@ cochano
 cocharro
 cochastro
 cochayuyo
-coche1
-coche2
+coche
+coche
 cochear
 cochecito
 cochera
 cochería
 cocheril
 cochero1, ra
-cochero2
+cochero
 cochero3, ra
 cocherón
 cochevira
@@ -7515,8 +7496,8 @@ cochinata
 cochinera
 cochinería
 cochinero, ra
-cochinilla1
-cochinilla2
+cochinilla
+cochinilla
 cochinillo
 cochinito
 cochino, na
@@ -7541,18 +7522,15 @@ cocinilla
 cocinillas
 cocinita
 cóclea
-coclear1
-coclear2
+coclear
+coclear
 coclearia
 coclesano, na
 cocó
-coco1
-coco2
-coco3
-coco4
+coco
 cocoa
 cocobálsamo
-cocobolo1
+cocobolo
 cocobolo2, la
 cococha
 cocodrilo
@@ -7584,9 +7562,9 @@ cocui
 cocuiza
 cocuy
 cocuyo
-coda1
-coda2
-coda3
+coda
+coda
+coda
 codadura
 codal
 codaste
@@ -7612,8 +7590,8 @@ codicia
 codiciable
 codiciador, ra
 codiciar
-codicilar1
-codicilar2
+codicilar
+codicilar
 codicilio
 codicillo
 codicilo
@@ -7631,11 +7609,11 @@ codina
 codirección
 codirector, ra
 codirigir
-codo1
-codo2
-codón1
-codón2
-codón2
+codo
+codo
+codón
+codón
+codón
 codoñate
 codorniz
 codorno
@@ -7689,8 +7667,8 @@ cogeneración
 coger
 cogermano, na
 cogestión
-cogida1
-cogida2
+cogida
+cogida
 cogido, da
 cogienda
 cogimiento
@@ -7777,13 +7755,13 @@ coición
 coicoy
 coihaiquino, na
 coihué
-coima1
-coima2
+coima
+coima
 coimbricense
 coime
 coimear
 coimero1, ra
-coimero2
+coimero
 coimputado, da
 coincidencia
 coincidente
@@ -7826,9 +7804,9 @@ cojutepecano, na
 cok
 col
 -cola
-cola1
-cola2
-cola3
+cola
+cola
+cola
 colaboración
 colaboracionismo
 colaboracionista
@@ -7839,14 +7817,14 @@ colaborativo, va
 colación
 colacionar
 colactáneo, a
-colada1
-colada2
+colada
+colada
 coladera
 coladero
 coladizo, za
 colado
-colador1
-colador2
+colador
+colador
 coladora
 coladura
 colágeno, na
@@ -7862,8 +7840,8 @@ colapez
 colapiscis
 colapsar
 colapso
-colar1
-colar2
+colar
+colar
 colateral
 colativo1, va
 colativo2, va
@@ -7875,16 +7853,16 @@ colcha
 colchado, da
 colchadura
 colchagüino, na
-colchar1
-colchar2
+colchar
+colchar
 colchero, ra
 colchón
 colchonería
 colchonero, ra
 colchoneta
 colcótar
-cole1
-cole2
+cole
+cole
 coleada
 coleador, ra
 coleados
@@ -7925,8 +7903,8 @@ colemono
 coleo
 coleóptero
 colera
-cólera1
-cólera2
+cólera
+cólera
 colérico, ca
 coleriforme
 colerín
@@ -7936,14 +7914,14 @@ colero, ra
 colesterina
 colesterol
 colesterolemia
-coleta1
-coleta2
+coleta
+coleta
 coletazo
 coletero
 coletilla
 coletillo
-coleto1
-coleto2
+coleto
+coleto
 coletudo, da
 coletuy
 colgadero, ra
@@ -7990,9 +7968,9 @@ colimbo
 colimense
 colimeño, ña
 colimote, ta
-colina1
-colina2
-colina3
+colina
+colina
+colina
 colinabo
 colindancia
 colindante
@@ -8001,7 +7979,7 @@ colineal
 colinérgico, ca
 colineta
 colín, na
-colino1
+colino
 colino2, na
 colipato
 colipavo, va
@@ -8018,10 +7996,10 @@ coliteja
 colitigante
 colitis
 coliza
-colla1
-colla1
-colla2
-colla2
+colla
+colla
+colla
+colla
 collación
 collada
 colladía
@@ -8033,11 +8011,11 @@ collareja
 collarín 
 collarino
 collazo1, za
-collazo2
-colleja1
-colleja2
-collera1
-collera2
+collazo
+colleja
+colleja
+collera
+collera
 collerón
 colleta
 colliguay
@@ -8060,8 +8038,8 @@ colmillar
 colmillazo
 colmillo
 colmilludo, da
-colmo1
-colmo2
+colmo
+colmo
 colmo3, ma
 colo
 colobo
@@ -8100,15 +8078,15 @@ colombófilo, la
 colombroño
 colomín, na
 colón
-colón1
-colon2
+colón
+colon
 colonato
 colonche
 colonda
 colonense
 coloneño, ña
-colonia1
-colonia2
+colonia
+colonia
 coloniaje
 colonial
 colonialismo
@@ -8192,9 +8170,9 @@ colutorio
 coluvie
 colza
 com-
-coma1
-coma2
-coma2
+coma
+coma
+coma
 comadrazgo
 comadre
 comadrear
@@ -8247,14 +8225,14 @@ combi
 combinable
 combinación
 combinada
-combinado1
-combinado2
+combinado
+combinado
 combinar
 combinatorio, ria
 comblezo, za
 combluezo, za
 combo1, ba
-combo2
+combo
 comboso, sa
 combretáceo, a
 comburente
@@ -8307,8 +8285,8 @@ comenzador
 comenzamiento
 comenzante
 comenzar
-comer1
-comer2
+comer
+comer
 comerciable
 comercial
 comercialismo
@@ -8380,8 +8358,8 @@ cómitre
 comiza
 commelináceo, a
 cómo
-como1
-como2
+como
+como
 cómoda
 cómodamente
 comodante
@@ -8399,8 +8377,8 @@ comoquier
 comoquiera
 comorbilidad
 comorense
-compa1
-compa2
+compa
+compa
 compacidad
 compaciente
 compactación
@@ -8498,8 +8476,8 @@ compensador, ra
 compensar
 compensativo, va
 compensatorio, ria
-competencia1
-competencia2
+competencia
+competencia
 competencial
 competente
 competentemente
@@ -8671,8 +8649,8 @@ comulgante
 comulgar
 comulgatorio
 común
-comuna1
-comuna2
+comuna
+comuna
 comunal
 comunaleza
 comunalía
@@ -8697,8 +8675,8 @@ comunismo
 comunista
 comunitario, ria
 comúnmente
-comuña1
-comuña2
+comuña
+comuña
 con
 con-
 conacaste
@@ -8792,10 +8770,8 @@ conchesta
 conchicharse
 conchífero, ra
 conchil
-concho1, cha
-concho2
-concho3
-concho4
+concha
+concho
 conchoprimismo
 conchoprimo
 conchoso, sa
@@ -8816,8 +8792,8 @@ conciliable
 conciliábulo
 conciliación
 conciliador, ra
-conciliar1
-conciliar2
+conciliar
+conciliar
 conciliativo, va
 conciliatorio, ria
 concilio
@@ -8875,7 +8851,7 @@ concretera
 concretización
 concretizar
 concreto1, ta
-concreto2
+concreto
 concuasar
 concubinario
 concubinato
@@ -8924,8 +8900,8 @@ condensador, ra
 condensar
 condensativo, va
 condenso, sa
-condesa1
-condesa2
+condesa
+condesa
 condesado
 condesar
 condescendencia
@@ -8952,14 +8928,14 @@ condiloma
 condimentación
 condimentar
 condimento
-condir1
-condir2
+condir
+condir
 condiscípulo, la
 condolecerse
 condolencia
 condoler
-condominio1
-condominio2
+condominio
+condominio
 condómino, na
 condón
 condonación
@@ -9182,8 +9158,8 @@ confutación
 confutador, ra
 confutar
 confutatorio, ria
-conga1
-conga2
+conga
+conga
 congal
 congelable
 congelación
@@ -9479,8 +9455,8 @@ conspirar
 conspirativo, va
 conspiratorio, ria
 constable
-constancia1
-constancia2
+constancia
+constancia
 constanciense
 constante
 constantemente
@@ -9617,15 +9593,15 @@ contemporización
 contemporizador, ra
 contemporizar
 contén
-contención1
-contención2
+contención
+contención
 contencioso
 contencioso-administrativo, va
 contender
 contendiente
 contendor, ra
 contenedor
-contenedor1
+contenedor
 contenedor2, ra
 contenencia
 contener
@@ -9635,8 +9611,8 @@ contenta
 contentación
 contentadizo, za
 contentamiento
-contentar1
-contentar2
+contentar
+contentar
 contenteza
 contentible
 contentivo, va
@@ -9675,8 +9651,8 @@ contigüidad
 contiguo, gua
 contil
 continencia
-continental1
-continental2
+continental
+continental
 continente
 contingencia
 contingentación
@@ -9713,11 +9689,7 @@ contorsión
 contorsionarse
 contorsionismo
 contorsionista
-contra-
-contra1
-contra2
-contra3
-contra4
+contra
 contraalmirantazgo
 contraalmirante
 contraamura
@@ -10302,8 +10274,8 @@ coplero, ra
 coplilla
 coplista
 coplón
-copo1
-copo2
+copo
+copo
 copón
 coposesión
 coposesor, ra
@@ -10335,8 +10307,8 @@ copuchar
 copuchear
 copuchento, ta
 copudo, da
-cópula1
-cópula2
+cópula
+cópula
 copulación
 copulador, ra
 copular
@@ -10346,15 +10318,15 @@ copulatorio, ria
 copyright
 coque
 coquear
-coquera1
-coquera2
-coquera3
+coquera
+coquera
+coquera
 coquería
 coquero1, ra
 coquero2, ra
-coqueta1
-coqueta2
-coqueta3
+coqueta
+coqueta
+coqueta
 coquetear
 coqueteo
 coquetería
@@ -10368,16 +10340,16 @@ coquina
 coquinario, ria
 coquinero, ra
 coquino
-coquito1
-coquito2
-coquito3
+coquito
+coquito
+coquito
 coquizable
 coquización
 coquizar
 cor
-cora1
-cora2
-cora3
+cora
+cora
+cora
 coracán
 coráceo, a
 coracero
@@ -10389,9 +10361,9 @@ coraje
 corajina
 corajoso, sa
 corajudo, da
-coral1
-coral2
-coral3
+coral
+coral
+coral
 coralario
 coralero, ra
 coralífero, ra
@@ -10430,11 +10402,11 @@ corca
 corcarse
 corcel
 corcesca
-corcha1
-corcha2
+corcha
+corcha
 corchapín
-corchar1
-corchar2
+corchar
+corchar
 corche
 corchea
 corchero, ra
@@ -10465,8 +10437,8 @@ corcusir
 corda
 cordado, da
 cordaje
-cordal1
-cordal2
+cordal
+cordal
 cordato, ta
 cordel
 cordelado, da
@@ -10523,8 +10495,8 @@ corecico
 corecillo
 corega
 corego
-coreo1
-coreo2
+coreo
+coreo
 coreografía
 coreografiar
 coreográfico, ca
@@ -10551,15 +10523,15 @@ corindón
 corinteño, ña
 coríntico, ca
 corintio, tia
-Corinto1
-corinto2
+Corinto
+corinto
 corío
 corion
 coripateño, ña
 corista
 corito, ta
-coriza1
-coriza2
+coriza
+coriza
 corla
 corlador, ra
 corladura
@@ -10626,18 +10598,15 @@ cornisón
 cornista
 corniveleto, ta
 cornizo
-corno1
-corno2
+corno
+corno
 cornucopia
 cornuda
 cornudilla
 cornudo, da
 cornúpeta
 cornuto
-coro1
-coro2
-coro3
-coro4
+coro
 corocha
 corocoreño, ña
 corografía
@@ -10665,8 +10634,8 @@ coronario, ria
 coronda
 corondel
 coroneja
-coronel1
-coronel2
+coronel
+coronel
 coronela
 coronelía
 coronguino, na
@@ -10707,12 +10676,12 @@ corpudo, da
 corpulencia
 corpulento, ta
 Corpus
-corpus2
+corpus
 corpuscular
 corpusculista
 corpúsculo
-corra1
-corra2
+corra
+corra
 corral
 corrala
 corralada
@@ -10779,8 +10748,8 @@ correntío, a
 correntón1, na
 correntón2, na
 correntoso, sa
-correo1
-correo2
+correo
+correo
 correón
 correos
 correoso, sa
@@ -10872,7 +10841,7 @@ corsear
 corselete
 corsetería
 corsetero, ra
-corso1
+corso
 corso2, sa
 corta
 cortabolsas
@@ -10906,16 +10875,16 @@ cortapuros
 cortar
 cortaúñas
 cortavientos
-corte1
-corte2
+corte
+corte
 cortedad
 cortega
 cortejador, ra
 cortejante
 cortejar
 cortero, ra
-cortés1
-cortés2
+cortés
+cortés
 cortesana
 cortesanamente
 cortesanazo, za
@@ -10925,8 +10894,8 @@ cortesense
 corteseño, ña
 cortesía
 córtex
-corteza1
-corteza2
+corteza
+corteza
 cortezo
 cortezoso, sa
 cortezudo, da
@@ -10947,7 +10916,7 @@ cortinón
 cortisona
 cortisquear
 corto1, ta
-corto2
+corto
 cortocircuitar
 cortocircuito
 cortometraje
@@ -10969,11 +10938,11 @@ corva
 corvadura
 corval
 corvar
-corvato1
-corvato2
+corvato
+corvato
 corvaza
-corvejón1
-corvejón2
+corvejón
+corvejón
 corvejos
 corveño, ña
 corveta
@@ -10985,7 +10954,7 @@ corvina
 corvínera
 corvino, na
 corvo1, a
-corvo2
+corvo
 corzo, za
 corzuelo
 cosa
@@ -11054,8 +11023,8 @@ cosmopolitismo
 cosmorama
 cosmos
 cosmovisión
-coso1
-coso2
+coso
+coso
 cosoria
 cosoriola
 cospe
@@ -11070,8 +11039,8 @@ cosquillear
 cosquilleo
 cosquilloso, sa
 cosquilludo, da
-costa1
-costa2
+costa
+costa
 costadillo
 costado
 costal
@@ -11090,15 +11059,15 @@ costarriqueñismo
 costarriqueño, ña
 coste
 costeador, ra
-costear1
-costear2
+costear
+costear
 costelación
 costeño, ña
-costera1
-costera2
+costera
+costera
 costero1, ra
 costero2, ra
-costero3
+costero
 costezuela
 costil
 costilla
@@ -11108,9 +11077,9 @@ costiller
 costilludo, da
 costino1, na
 costino2, na
-costo1
-costo2
-costo3
+costo
+costo
+costo
 costón
 costosamente
 costoso, sa
@@ -11135,8 +11104,8 @@ costurear
 costureo
 costurero, ra
 costurón
-cota1
-cota2
+cota
+cota
 cotana
 cotangente
 cotanza
@@ -11173,19 +11142,15 @@ cotín
 cotín
 cotinga
 cotitular
-cotiza1
-cotiza2
+cotiza
+cotiza
 cotizable
 cotización
 cotizado1, da
 cotizado2, da
 cotizar
-coto1
-coto2
-coto3
-coto4
-coto5
-coto6, ta
+cota
+coto
 cotobelo
 cotofle
 cotofre
@@ -11202,7 +11167,7 @@ cotorrear
 cotorreo
 cotorrera
 cotorrita
-cotorrita1
+cotorrita
 cotorrón, na
 cotorro, rra
 cototo, ta
@@ -11265,12 +11230,12 @@ coyunturalismo
 coz
 cozolmeca
 crabrón
-crac1
-crac2
+crac
+crac
 -cracia
 cración
-crack1
-crack2
+crack
+crack
 cracoviano, na
 crampón
 cramponado, da
@@ -11352,8 +11317,8 @@ creer
 crehuela
 creíble
 creído, da
-crema1
-crema2
+crema
+crema
 cremación
 cremallera
 cremar
@@ -11598,8 +11563,8 @@ cromatógrafo, fa
 crómico, ca
 crómlech
 cromo-
-cromo1
-cromo2
+cromo
+cromo
 cromóforo, ra
 cromógeno, na
 cromolitografía
@@ -11720,8 +11685,8 @@ cruzador, ra
 cruzamiento
 cruzar
 ctenóforo
-cu1
-cu2
+cu
+cu
 cuaba
 cuache, cha
 cuaco
@@ -11758,8 +11723,8 @@ cuádriceps
 cuadrícula
 cuadriculación
 cuadriculado, da
-cuadricular1
-cuadricular2
+cuadricular
+cuadricular
 cuadrienal
 cuadrienio
 cuadrifoliado, da
@@ -11808,8 +11773,8 @@ cuajaenredos
 cuajaleches
 cuajamiento
 cuajaní
-cuajar1
-cuajar2
+cuajar
+cuajar
 cuajarón
 cuajicote
 cuajilote
@@ -11849,7 +11814,7 @@ cuantimás
 cuantioso, sa
 cuantitativo, va
 cuantizar
-cuanto1
+cuanto
 cuanto1, ta
 cuantoquiera
 cuánto, ta
@@ -11899,7 +11864,7 @@ cuarterada
 cuartería
 cuarterola
 cuarterón1, na
-cuarterón2
+cuarterón
 cuartero, ra
 cuarteta
 cuartete
@@ -11962,7 +11927,7 @@ cuatripartito, ta
 cuatrisílabo, ba
 cuatro
 cuatrocentista
-cuatrocientos1
+cuatrocientos
 cuatrocientos2, tas
 cuatrodoblar
 cuatromilpas
@@ -11991,7 +11956,7 @@ cubeta
 cubetada
 cubetera
 cubeto1, ta
-cubeto2
+cubeto
 cúbica
 cubicación
 cubicar
@@ -12005,8 +11970,8 @@ cubiertería
 cubierto
 cubijar
 cubil
-cubilar1
-cubilar2
+cubilar
+cubilar
 cubilete
 cubiletear
 cubileteo
@@ -12020,8 +11985,8 @@ cubital
 cubitero
 cubito
 cúbito
-cubo1
-cubo2
+cubo
+cubo
 cuboides
 cubrecabeza
 cubrecadena
@@ -12033,8 +11998,8 @@ cubrepán
 cubrición
 cubrimiento
 cubrir
-cuca1
-cuca2
+cuca
+cuca
 cucamonas
 cucaña
 cucañero, ra
@@ -12042,12 +12007,12 @@ cucar
 cucaracha
 cucarachero, ra
 cucarda
-cucarro1
+cucarro
 cucarro2, rra
 cucayo
 cucha
-cuchar1
-cuchar2
+cuchar
+cuchar
 cuchara
 cucharada
 cucharadita
@@ -12078,10 +12043,7 @@ cuchillero, ra
 cuchillo
 cuchipanda
 cuchitril
-cucho1
-cucho2
-cucho3
-cucho4
+cucho
 cuchubal
 cuchuchear
 cuchuco
@@ -12093,9 +12055,9 @@ cuchumbo
 cuchuvalearse
 cuclillas
 cuclillo
-cuco1
-cuco2
-cuco3
+cuco
+cuco
+cuco
 cucú
 cucuba
 cucubano
@@ -12131,15 +12093,15 @@ cuellilargo, ga
 cuellinegro
 cuellirrojo
 cuello
-cuelmo1
-cuelmo2
-cuenca1
-Cuenca2
+cuelmo
+cuelmo
+cuenca
+Cuenca
 cuencano, na
 cuenco
 cuenda
-cuenta1
-cuenta2
+cuenta
+cuenta
 cuentacacao
 cuentachiles
 cuentacorrentista
@@ -12158,7 +12120,7 @@ cuentero, ra
 cuentista
 cuentístico, ca
 cuento
-cuento2
+cuento
 cuentón, na
 cuequería
 cuera
@@ -12184,15 +12146,15 @@ cuerpo
 cuérrago
 cuerria
 cuerudo, da
-cuerva1
-cuerva2
+cuerva
+cuerva
 cuervera
 cuervo
-cuesco1
-cuesco2
+cuesco
+cuesco
 cueshte
-cuesta1
-cuesta2
+cuesta
+cuesta
 cuestación
 cuestión
 cuestionabilidad
@@ -12245,8 +12207,8 @@ cuin
 cuina
 cuino
 cuis
-cuita1
-cuita2
+cuita
+cuita
 cuitadamente
 cuitadez
 cuitado, da
@@ -12255,8 +12217,8 @@ cuitar
 cuitear
 cuitlacoche
 cuitoso, sa
-cuja1
-cuja2
+cuja
+cuja
 cujara
 cuje
 cují
@@ -12316,8 +12278,8 @@ culminar
 culo
 culombio
 culón, na
-culote1
-culote2
+culote
+culote
 culotte
 culpa
 culpabilidad
@@ -12409,8 +12371,8 @@ cumular
 cumulativo, va
 cúmulo
 cumulonimbo
-cuna1
-cuna2
+cuna
+cuna
 cunacho
 cunaguaro
 cunar
@@ -12423,8 +12385,8 @@ cundiamor
 cundido
 cundidor, ra
 cundinamarqués, sa
-cundir1
-cundir2
+cundir
+cundir
 cundundear
 cunear
 cuneiforme
@@ -12536,14 +12498,14 @@ curie
 curiel
 curiela
 curil
-curio1
-curio2
+curio
+curio
 curiosamente
 curiosear
 curioseo
 curiosidad
 curioso1, sa
-curioso2
+curioso
 curiquingue
 curita
 curlandés, sa
@@ -12560,11 +12522,11 @@ currículum
 curriculum vitae
 currinche
 currito, ta
-curro1
+curro
 curro2, rra
-curro3
-curruca1
-curruca2
+curro
+curruca
+curruca
 currucho, cha
 curruña
 curruscante
@@ -12682,7 +12644,7 @@ cuye
 cuyeo
 cuyero
 cuyo1, ya
-cuyo2
+cuyo
 cúyo, ya
 cuyují
 cuz

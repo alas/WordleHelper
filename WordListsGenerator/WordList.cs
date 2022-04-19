@@ -42,6 +42,15 @@ internal static class WordList
                 .Replace('Ó', 'O')
                 .Replace('Ú', 'U')
                 .Replace('Ü', 'U');
+
+            Regex regexpComma = new(@"^.*[,] .*$", RegexOptions.Compiled);
+
+            var tempWords = input.Split("\n")
+                .Select(t => t.TrimEnd('1', '2', '3'))
+                .Select(t => !regexpComma.IsMatch(t) ? t : Regex.Replace(t, @"[,] .*$", "", RegexOptions.IgnoreCase, TimeSpan.FromSeconds(0.5)))
+                .ToArray();
+
+            input = String.Join("\n", tempWords);
         }
 
         Regex regexp = new(@"^[A-ZÑ]+$", RegexOptions.Compiled);
@@ -58,7 +67,7 @@ internal static class WordList
 
         if (shuffle)
         {
-            Random rnd = new();
+            Random rnd = new(354);
             words = words.OrderBy(x => rnd.Next()).ToArray();
         }
 

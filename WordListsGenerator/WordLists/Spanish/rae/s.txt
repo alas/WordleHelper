@@ -39,8 +39,8 @@ sabélico, ca
 sabelotodo
 sabencia
 sabeo, a
-saber1
-saber2
+saber
+saber
 sabiamente
 sabicú
 sabidillo, lla
@@ -55,17 +55,17 @@ sabinar
 sabinilla
 sabino1, na
 sabino2, na
-sabino3
-sabio2
+sabino
+sabio
 sabio, bia
 sabiola
 sabiondez
 sabiondo, da
 sabir
 sablazo
-sable1
-sable2
-sable3
+sable
+sable
+sable
 sableada
 sableador, ra
 sablear
@@ -109,8 +109,8 @@ saburra
 saburral
 saburrar
 saburroso, sa
-saca1
-saca2
+saca
+saca
 sacabala
 sacabalas
 sacabancos
@@ -190,7 +190,7 @@ sacoleva
 sacolevita
 sacomano
 sacón1, na
-sacón2
+sacón
 saconear
 saconería
 sacra
@@ -256,8 +256,8 @@ saetero, ra
 saetí
 saetía
 saetilla
-saetín1
-saetín2
+saetín
+saetín
 saetón
 safari
 safena
@@ -265,8 +265,8 @@ sáfico, ca
 safir
 safismo
 safrisco, ca
-saga1
-saga2
+saga
+saga
 sagacidad
 sagallino
 sagapeno
@@ -305,16 +305,16 @@ sahumerio
 sahúmo
 sahurín
 saín
-sainar1
-sainar2
+sainar
+sainar
 sainete
 sainetear
 sainetero, ra
 sainetesco, ca
 sainetista
 saíno
-saja1
-saja2
+saja
+saja
 sajada
 sajador
 sajadra
@@ -362,8 +362,8 @@ salamín
 salamo
 salamunda
 salangana
-salar1
-salar2
+salar
+salar
 salariado
 salarial
 salariar
@@ -401,8 +401,8 @@ salea
 salearse
 saledizo, za
 salega
-salegar1
-salegar2
+salegar
+salegar
 salema
 salentino, na
 salep
@@ -419,13 +419,13 @@ salga
 salgada
 salgadera
 salgadura
-salgar1
-salgar2
+salgar
+salgar
 salgareño
 salgue
 salguera
-salguero1
-salguero2
+salguero
+salguero
 salicáceo, a
 salicaria
 salicilato
@@ -508,8 +508,8 @@ salomar
 salomón
 salomonense
 salomónico, ca
-salón1
-salón2
+salón
+salón
 saloncillo
 salonero, ra
 salpa
@@ -583,8 +583,8 @@ salteñada
 salteño1, ña
 salteño2, ña
 salteo
-salterio1
-salterío2
+salterio
+salterío
 saltero, ra
 saltigallo
 saltígrado, da
@@ -657,7 +657,7 @@ salvífico, ca
 salvilla
 salvilora
 salvo1, va
-salvo2
+salvo
 salvoconducto
 salvohonor
 salzmimbre
@@ -668,7 +668,7 @@ samanés, sa
 samanta
 sámara
 samarilla
-samario1
+samario
 samario2, ria
 samarita
 samaritano, na
@@ -740,7 +740,7 @@ sancarlino, na
 sanchecia
 sanchete
 sancho1, cha
-Sancho2
+Sancho
 sanchopancesco, ca
 sanción
 sancionable
@@ -939,7 +939,7 @@ santiscario
 santísimo, ma
 santol
 santolio
-santón1
+santón
 santón2, na
 santónico, ca
 santonina
@@ -1033,8 +1033,8 @@ sarcocola
 sarcófago
 sarcolema
 sarcoma
-sarda1
-sarda2
+sarda
+sarda
 sardana
 sardanés, sa
 sarde
@@ -1058,8 +1058,8 @@ sardónice
 sardónico, ca
 sardonio
 sardónique
-sarga1
-sarga2
+sarga
+sarga
 sargadilla
 sargado, da
 sargal
@@ -1075,14 +1075,14 @@ sargentía
 sargento
 sargentona
 sargo
-sarguero1
+sarguero
 sarguero2, ra
 sari
 sariá
 sariama
 sarilla
-sarillo1
-sarillo2
+sarillo
+sarillo
 sármata
 sarmático, ca
 sarmentador, ra
@@ -1108,8 +1108,8 @@ sarrajón
 sarrapía
 sarria
 sarrieta
-sarrillo1
-sarrillo2
+sarrillo
+sarrillo
 sarrio
 sarro
 sarroso, sa
@@ -1165,7 +1165,7 @@ satisfactoriamente
 satisfactorio, ria
 satisfecho, cha
 sativo, va
-sato1
+sato
 sato2, ta
 sátrapa
 satrapía
@@ -1219,8 +1219,8 @@ sayalesco, ca
 sayalete
 sayama
 sayo
-sayón1
-sayón2
+sayón
+sayón
 sayuego
 sayuela
 sayuelo
@@ -1235,8 +1235,8 @@ sazonar
 scooter
 -scopia
 -scopio
-se1
-se2
+se
+se
 sebáceo, a
 sebado
 sebastiano
@@ -1269,8 +1269,8 @@ secamente
 secamiento
 secano
 secansa
-secante1
-secante2
+secante
+secante
 secapelos
 secar
 secaral
@@ -1312,9 +1312,9 @@ secreteo
 secreter
 secretismo
 secretista
-secreto1
+secreto
 secreto2, ta
-secreto3
+secreto
 secretorio, ria
 secretor, ra
 secta
@@ -1427,8 +1427,8 @@ segrí
 segudar
 segueta
 seguetear
-seguida1
-seguida2
+seguida
+seguida
 seguidamente
 seguidero
 seguidilla
@@ -1653,8 +1653,8 @@ semis
 semisalvaje
 semisótano
 semisuma
-semita1
-semita2
+semita
+semita
 semítico, ca
 semitismo
 semitista
@@ -1672,14 +1672,10 @@ sempervirente
 sempiterna
 sempiternamente
 sempiterno, na
-sen1
-sen2
-sen3
-sen4
-sena1
-sena2
+sen
+sena
 senada
-senado1
+senado
 senado2, da
 senadoconsulto
 senador, ra
@@ -1776,8 +1772,8 @@ sentimentalmente
 sentimentaloide
 sentimiento
 sentina
-sentir1
-sentir2
+sentir
+sentir
 sentón
 senzonte
 seña
@@ -1880,14 +1876,14 @@ sequillo
 sequío
 séquito
 sequizo, za
-ser1
-ser2
+ser
+ser
 sera
 serado
 seráficamente
 seráfico, ca
-serafín1
-serafín2
+serafín
+serafín
 serafina
 seraje
 seranear
@@ -1899,8 +1895,8 @@ serbo
 serbocroata
 serdedad
 sereguete
-serena1
-serena2
+serena
+serena
 serenar
 serenata
 serenatear
@@ -2048,8 +2044,8 @@ servir
 servita
 servitud
 servo-
-servo1
-servo2
+servo
+servo
 servodirección
 servofreno
 servomecanismo
@@ -2085,8 +2081,8 @@ sesionar
 sesma
 sesmero
 sesmo, ma
-seso1
-seso2
+seso
+seso
 sesqui-
 sesquiáltero, ra
 sesquicentenario, ria
@@ -2106,8 +2102,8 @@ sesudamente
 sesudez
 sesudo, da
 set
-seta1
-seta2
+seta
+seta
 setabense
 setabitano, na
 setal
@@ -2208,10 +2204,10 @@ showman
 show-woman
 shuar
 shunte
-si1
-sí1
-si2
-sí2
+si
+sí
+si
+sí
 sialismo
 siamés, sa
 sian
@@ -2250,8 +2246,8 @@ sicomotor
 sicón
 sicono
 sicópata
-sicosis1
-sicosis2
+sicosis
+sicosis
 sicosociología
 sicote
 sicotecnia
@@ -2424,8 +2420,8 @@ sillada
 sillar
 sillarejo
 sillera
-sillería1
-sillería2
+sillería
+sillería
 sillero, ra
 silleta
 silletazo
@@ -2526,8 +2522,8 @@ simultanear
 simultaneidad
 simultáneo, a
 simún
-sin-1
-sin-2
+sin-
+sin-
 sinabafa
 sinagoga
 sinalagmático
@@ -2578,7 +2574,7 @@ síndica
 sindicable
 sindicación
 sindicado1, da
-sindicado2
+sindicado
 sindicador, ra
 sindical
 sindicalismo
@@ -2637,8 +2633,8 @@ siniestro, tra
 sinistrorso, sa
 sinjusticia
 sinnúmero
-sino1
-sino2
+sino
+sino
 sinoble
 sínoca
 sinocal
@@ -2725,7 +2721,7 @@ sirena
 sirenio
 sirga
 sirgar
-sirgo1
+sirgo
 sirgo2, ga
 sirguero
 siriaco, ca
@@ -2775,7 +2771,7 @@ sismológico, ca
 sismólogo, ga
 sismómetro
 sismorresistente
-sisón1
+sisón
 sisón2, na
 sistema
 sistemática
@@ -2813,11 +2809,7 @@ sizigia
 sketch
 slip
 SMS
-so-
-so1
-so2
-so3
-so4
+so
 soalzar
 soasar
 soba
@@ -2884,8 +2876,8 @@ sobornación
 sobornador, ra
 sobornal
 sobornar
-soborno1
-soborno2
+soborno
+soborno
 sobra
 sobracaña
 sobradamente
@@ -2904,8 +2896,8 @@ sobravenida
 sobrazano, na
 sobrazar
 sobre-
-sobre1
-sobre2
+sobre
+sobre
 sobreaarco
 sobreabundancia
 sobreabundantemente
@@ -3053,7 +3045,7 @@ sobrepujamiento
 sobrepujanza
 sobrepujar
 sobrequilla
-sobrero1
+sobrero
 sobrero2, ra
 sobrero3, ra
 sobrerrealismo
@@ -3079,8 +3071,8 @@ sobreseimiento
 sobresello
 sobresembrar
 sobreseñal
-sobresolar1
-sobresolar2
+sobresolar
+sobresolar
 sobrestadía
 sobrestante
 sobrestantía
@@ -3118,8 +3110,8 @@ sobriedad
 sobrinazgo
 sobrino, na
 sobrio, bria
-soca1
-soca2
+soca
+soca
 socaire
 socairero
 socaliña
@@ -3180,8 +3172,8 @@ sociometría
 sociométrico, ca
 sociopolítico, ca
 socol
-socola1
-socola2
+socola
+socola
 socolar
 socollada
 socollar
@@ -3264,10 +3256,7 @@ sogún
 soja
 sojuzgador, ra
 sojuzgar
-sol1
-sol2
-sol3
-sol4
+sol
 solacear
 solacio
 solada
@@ -3280,8 +3269,8 @@ solanáceo, a
 solanar
 solanera
 solanina
-solano1
-solano2
+solano
+solano
 solapa
 solapadamente
 solapado, da
@@ -3289,12 +3278,9 @@ solapamiento
 solapar
 solape
 solapear
-solapo1
-solapo2
-solar1
-solar2
-solar3
-solar4
+solapo
+solapo
+solar
 solariego, ga
 solario
 solárium
@@ -3321,8 +3307,8 @@ solecismo
 soledad
 soledoso, sa
 soledumbre
-solejar1
-solejar2
+solejar
+solejar
 solejo
 solemne
 solemnemente
@@ -3333,13 +3319,13 @@ solén
 solenoide
 soleo
 sóleo
-soler1
-soler2
-solera1
-solera2
+soler
+soler
+solera
+solera
 solercia
-solería1
-solería2
+solería
+solería
 solero
 solerte
 soleta
@@ -3414,7 +3400,7 @@ sollozar
 sollozo
 solmenar
 solo1, la
-solo2
+solo
 sololateco, ca
 solombra
 solombría
@@ -3442,8 +3428,8 @@ solvencia
 solventar
 solvente
 solver
-soma1
-soma2
+soma
+soma
 somalí
 somanta
 somarrar
@@ -3492,8 +3478,8 @@ somnífero, ra
 somnílocuo, cua
 somnolencia
 somnoliento, ta
-somo1
-somo2
+somo
+somo
 somocismo
 somocista
 somontano, na
@@ -3524,8 +3510,8 @@ sonambulismo
 sonámbulo, la
 sonante
 sonántico, ca
-sonar1
-sonar2
+sonar
+sonar
 sonata
 sonatina
 sonchiche
@@ -3612,17 +3598,17 @@ sopapear
 sopapina
 sopapo
 sopar
-sopear1
-sopear2
+sopear
+sopear
 sopeña
 sopero, ra
 sopesar
 sopete
-sopetear1
-sopetear2
+sopetear
+sopetear
 sopeteo
-sopetón1
-sopetón2
+sopetón
+sopetón
 sopicaldo
 sopié
 sopilote
@@ -3648,8 +3634,8 @@ soplonear
 soplonería
 soplón, na
 sopón
-soponcio1
-soponcio2
+soponcio
+soponcio
 sopor
 soporífero, ra
 soporoso, sa
@@ -3662,8 +3648,8 @@ sopórtico
 soprano
 sopuntar
 soquete
-sor1
-sor2
+sor
+sor
 sora
 sorateño, ña
 sorba
@@ -3677,8 +3663,8 @@ sorbo
 sorce
 sorche
 sorchi
-sorda1
-sorda2
+sorda
+sorda
 sordamente
 sordera
 sordez
@@ -3705,7 +3691,7 @@ sornaguear
 sornar
 sornijear
 soro1, ra
-soro2
+soro
 soroche
 sorococo
 soroconti
@@ -3718,8 +3704,8 @@ sorprendente
 sorprender
 sorpresa
 sorpresivo, va
-sorra1
-sorra2
+sorra
+sorra
 sorrabar
 sorragar
 sorrapar
@@ -3843,8 +3829,8 @@ spanglish
 sparring
 sponsor
 sport
-spot1
-spot2
+spot
+spot
 spray
 sprint
 squash
@@ -4137,8 +4123,8 @@ sucesivo, va
 suceso
 sucesorio, ria
 sucesor, ra
-suche1
-suche2
+suche
+suche
 súchel
 súchil
 suciamente
@@ -4279,8 +4265,8 @@ sui géneris
 suindá
 suirirí
 suite
-suiza1
-Suiza2
+suiza
+Suiza
 suízaro, ra
 suizón
 suizo, za
@@ -4325,7 +4311,7 @@ sumar
 sumarial
 sumariamente
 sumariar
-sumario1
+sumario
 sumario2, ria
 sumarísimo, ma
 sumarro
@@ -4352,7 +4338,7 @@ sumiso, sa
 sumista
 summum
 sumo1, ma
-sumo2
+sumo
 sumo3, ma
 sumonte
 sumoscapo
@@ -4362,8 +4348,8 @@ sumulista
 sumulístico, ca
 sumun
 sunami
-suncho1
-suncho2
+suncho
+suncho
 sunción
 sunco, ca
 suncuán
@@ -4382,8 +4368,8 @@ supedáneo
 supeditación
 supeditar
 super-
-súper1
-súper2
+súper
+súper
 superable
 superabundancia
 superabundante
@@ -4557,8 +4543,8 @@ suquinay
 sur
 sur-
 surá
-sura1
-sura2
+sura
+sura
 surada
 surafricano, na
 sural

@@ -76,16 +76,16 @@ zafirino, na
 zafiro
 zafo, fa
 zafón
-zafra1
-zafra1
-zafra3
+zafra
+zafra
+zafra
 zafrán
 zafre
 zafrero
 zaga
 zagadero
 zagal1, la
-zagal2
+zagal
 zagala
 zagalesco, ca
 zagaletón, na
@@ -138,11 +138,11 @@ zalamero, ra
 zálamo
 zalbo, ba
 zalea
-zalear1
-zalear2
+zalear
+zalear
 zalema
-zaleo1
-zaleo2
+zaleo
+zaleo
 zallar
 zalmedina
 zaloma
@@ -176,8 +176,8 @@ zambombo
 zamborondón, na
 zamborotudo, da
 zamborrotudo, da
-zambra1
-zambra2
+zambra
+zambra
 zambrano
 zambucar
 zambuco
@@ -186,8 +186,8 @@ zambullidor, ra
 zambullidura
 zambullimiento
 zambullir
-zambullo1
-zambullo2
+zambullo
+zambullo
 zambullón
 zambumbia
 zamburiña
@@ -284,8 +284,8 @@ zanquilón, na
 zanquita
 zanquituerto, ta
 zanquivano, na
-zapa1
-zapa2
+zapa
+zapa
 zapador, ra
 zapallar
 zapallito
@@ -321,8 +321,8 @@ zapatudo1, da
 zapatudo2, da
 zapayolito
 zape
-zapear1
-zapear2
+zapear
+zapear
 zapeo
 zaperoco
 zapita
@@ -375,8 +375,8 @@ zarangollo
 zarapatel
 zarapín
 zarapito
-zaratán1
-zaratán2
+zaratán
+zaratán
 zaraza
 zarazas
 zarazo, za
@@ -389,7 +389,7 @@ zarcero, ra
 zarceta
 zarcil
 zarcillitos
-zarcillo2
+zarcillo
 zarco, ca
 zarda
 zarévich
@@ -400,9 +400,9 @@ zarina
 zarismo
 zarista
 zarja
-zarpa1
-zarpa2
-zarpa3
+zarpa
+zarpa
+zarpa
 zarpada
 zarpanel
 zarpar
@@ -437,7 +437,7 @@ zarzaparrilla
 zarzaparrillar
 zarzaperruna
 zarzarrosa
-zarzillo1
+zarzillo
 zarzo
 zarzoso, sa
 zarzuela
@@ -471,8 +471,8 @@ zenit
 zénit
 zenzontle
 zepelín
-zeta1
-zeta2
+zeta
+zeta
 zeugma
 zigofiláceo, a
 zigomático, ca
@@ -499,8 +499,8 @@ zircón
 zis
 ziszás
 zoantropía
-zoca1
-zoca2
+zoca
+zoca
 zocado, da
 zócalo
 zocar
@@ -509,15 +509,15 @@ zocata
 zocatearse
 zocato, ta
 zoclo
-zoco1
-zoco2
+zoco
+zoco
 zoco3, ca
 zocola
 zocolar
 zódiac
 zodiaco
-zofra1
-zofra2
+zofra
+zofra
 zoilo
 zoizo
 zolle
@@ -626,8 +626,8 @@ zorrero2, ra
 zorrillo
 zorrino
 zorrocloco
-zorrón1
-zorrón2
+zorrón
+zorrón
 zorronglón, na
 zorrongo, ga
 zorro, rra
@@ -653,7 +653,7 @@ zuchipe
 zucurco
 zuda
 zueca
-zueco1
+zueco
 zueco2, ca
 zuela
 -zuelo, la
@@ -664,8 +664,8 @@ zulacar
 zulaque
 zulaquear
 zuliano, na
-zulla1
-zulla2
+zulla
+zulla
 zullarse
 zullenco, ca
 zullón, na
@@ -674,8 +674,8 @@ zulú
 zum
 zuma
 zumacal
-zumacar1
-zumacar2
+zumacar
+zumacar
 zumacaya
 zumaque
 zumaya
@@ -691,8 +691,8 @@ zumiento
 zumillo
 zumo
 zumoso, sa
-zuna1
-zuna2
+zuna
+zuna
 zunchar
 zuncho
 zuncuán
@@ -748,8 +748,8 @@ zurriago
 zurriar
 zurribanda
 zurriburri
-zurrido1
-zurrido2
+zurrido
+zurrido
 zurrir
 zurrón
 zurrona

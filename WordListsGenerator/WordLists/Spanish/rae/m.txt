@@ -4,15 +4,15 @@ mabí
 mable
 mabolo
 macá
-maca1
-maca2
-maca3
+maca
+maca
+maca
 macabeo2, a
 macabí
 macabro, bra
 macacada
 macachín
-macaco1
+macaco
 macaco2, ca
 macacoa
 macadam
@@ -21,10 +21,10 @@ macadán
 macaense
 macagua
 macagüita
-macal1
-macal2
-macana1
-macana2
+macal
+macal
+macana
+macana
 macanazo
 macanche
 macancoa
@@ -35,8 +35,8 @@ macanear
 macaneo
 macanudez
 macanudo, da
-macaquear1
-macaquear2
+macaquear
+macaquear
 macar
 macarelo
 macareno, na
@@ -64,8 +64,8 @@ maceramiento
 macerar
 macerina
 macero
-maceta1
-maceta2
+maceta
+maceta
 macetazo
 maceteado, da
 macetera
@@ -76,8 +76,8 @@ macetudo, da
 macferlán
 mach
 macha
-machaca1
-machaca2
+machaca
+machaca
 machacadera
 machacado
 machacador, ra
@@ -119,26 +119,26 @@ machimbrado
 machimbradora
 machimbrar
 machimbre
-machín1
-machín2
-machina1
-machina2
+machín
+machín
+machina
+machina
 machincuepa
 machío, a
 machismo
 machista
 machito
 machitún
-macho1
-macho2
+macho
+macho
 machón
 machona
 machorro, rra
-machota1
-machota2
-machote1
-machote2
-machote3
+machota
+machota
+machote
+machote
+machote
 machucador, ra
 machucadura
 machucamiento
@@ -196,8 +196,8 @@ macuca
 macuco, ca
 macuelizo
 mácula
-macular1
-macular2
+macular
+macular
 maculatura
 maculoso, sa
 macundales
@@ -231,8 +231,8 @@ madoroso, sa
 madrás
 madrasa
 madrastra
-madraza1
-madraza2
+madraza
+madraza
 madrazo
 madre
 madreado
@@ -330,22 +330,22 @@ magancería
 magancés, sa
 maganel
 maganto, ta
-magaña1
-magaña2
+magaña
+magaña
 magañoso, sa
 magarza
 magarzuela
 magazín
-magdalena1
-magdalena2
+magdalena
+magdalena
 magdalenense
 magdalénico, ca
 magdaleniense
 magdaleón
 magenta
 magía
-magiar1
-magiar2
+magiar
+magiar
 mágico, ca
 magín
 maginar
@@ -472,8 +472,8 @@ maiguanza
 maílla
 maíllo
 maillot
-maimón1
-maimón2
+maimón
+maimón
 maimonismo
 mainel
 maipino, na
@@ -523,24 +523,24 @@ majestuoso, sa
 majeza
 majiadero
 majo, ja
-majolar1
-majolar2
+majolar
+majolar
 majoleta
 majoleto
 majorana
 majorca
 majorero, ra
 majorette
-majuela1
-majuela2
-majuelo1
-majuelo2
+majuela
+majuela
+majuelo
+majuelo
 majunche
 majzén
-mal1
-mal2
-mala1
-mala2
+mal
+mal
+mala
+mala
 malabar
 malabárico, ca
 malabarismo
@@ -677,9 +677,9 @@ malero, ra
 malespín
 malespino
 malestar
-maleta1
-maleta2
-maleta3
+maleta
+maleta
+maleta
 maletera
 maletero
 maletía
@@ -741,8 +741,8 @@ malinterpretar
 malitencionado, da
 malla
 malladar
-mallar1
-mallar2
+mallar
+mallar
 mallequino, na
 mallero, ra
 mallete
@@ -805,8 +805,8 @@ malsonancia
 malsonante
 malsonar
 malsufrido, da
-malta1
-Malta2
+malta
+Malta
 malteado, da
 maltear
 maltés, sa
@@ -835,8 +835,8 @@ malva
 malváceo, a
 malvadamente
 malvado, da
-malvar1
-malvar2
+malvar
+malvar
 malvarrosa
 malvasía
 malvavisco
@@ -933,13 +933,13 @@ mamullar
 mamut
 man
 maná
-mana1
-mana2
-mana2
+mana
+mana
+mana
 manaba
 manabita
 manada
-manadero1
+manadero
 manadero2, ra
 mánager
 managua
@@ -966,16 +966,16 @@ mancelloso, sa
 máncer
 mancera
 mancerina
-mancha1
-Mancha2
-mancha3
+mancha
+Mancha
+mancha
 manchabrava
 manchadizo, za
 manchado, da
 manchador
 manchamanteles
-manchar1
-manchar2
+manchar
+manchar
 máncharras
 manchego, ga
 mancheta
@@ -1048,8 +1048,8 @@ mandracho
 mandrágora
 mandrágula
 mandria
-mandril1
-mandril2
+mandril
+mandril
 mandrilado
 mandrilador, ra
 mandrilar
@@ -1086,9 +1086,9 @@ manfla
 manflorita
 manflota
 manfúa
-manga1
-manga2
-manga3
+manga
+manga
+manga
 mangada
 mangado, da
 mangajarro
@@ -1108,17 +1108,17 @@ manganilla
 manganiya
 mangante
 manganzón, na
-mangar1
-mangar2
-mangar3
+mangar
+mangar
+mangar
 mangazo
 mangla
 manglar
 mangle
 manglero, ra
-mango1
-mango2
-mango3
+mango
+mango
+mango
 mangón
 mangonada
 mangoneador, ra
@@ -1137,8 +1137,8 @@ manguala
 manguardia
 manguarear
 mangue
-manguear1
-manguear2
+manguear
+manguear
 mangüeña
 manguera
 manguereada
@@ -1193,10 +1193,10 @@ manigual
 manigüero, ra
 manigueta
 manija
-manijero1
+manijero
 manijero2, ra
-manila1
-Manila2
+manila
+Manila
 manilargo, ga
 manilense
 manileño, ña
@@ -1220,15 +1220,15 @@ maniqueísmo
 maniqueo, a
 maniquete
 maniquí
-manir1
-manir2
+manir
+manir
 manirroto, ta
 manirrotura
 manisero, ra
-manita1
-manita2
+manita
+manita
 manitas
-manito1
+manito
 manito2, ta
 manivacío, a
 manivela
@@ -1242,7 +1242,7 @@ manjúa
 manjuarí
 manlevar
 manlieva
-mano1
+mano
 mano2, na
 manobre
 manobrero
@@ -1286,7 +1286,7 @@ mansesor
 manseza
 mansión
 mansionario
-manso1
+manso
 manso2, sa
 mansuefacto, ta
 mansueto, ta
@@ -1321,8 +1321,8 @@ mantenido, da
 manteniente
 mantenimiento
 manteño, ña
-manteo1
-manteo2
+manteo
+manteo
 mantequera
 mantequería
 mantequero, ra
@@ -1339,7 +1339,7 @@ mantiniente
 mantis
 mantisa
 manto
-mantón1
+mantón
 mantón2, na
 mantornar
 mantra
@@ -1395,8 +1395,8 @@ mañanica
 mañanita
 mañera
 mañerear
-mañería1
-mañería2
+mañería
+mañería
 mañío
 maño1, ña
 maño2, ña
@@ -1436,11 +1436,11 @@ maqui
 maquiavélico, ca
 maquiavelismo
 maquiavelista
-maquila1
-maquila2
+maquila
+maquila
 maquiladora
-maquilar1
-maquilar2
+maquilar
+maquilar
 maquilero1, ra
 maquilero2, ra
 maquilihue
@@ -1471,8 +1471,8 @@ maquisapa
 mar
 mara
 marabino, na
-marabú1
-marabú2
+marabú
+marabú
 marabunta
 marabuto
 maraca
@@ -1509,8 +1509,8 @@ maravilloso, sa
 marbellí
 marbete
 marca
-marcación1
-marcación2
+marcación
+marcación
 marcadamente
 marcado, da
 marcador, ra
@@ -1535,7 +1535,7 @@ marchamar
 marchamero
 marchamo
 marchantaje
-marchante1
+marchante
 marchante2, ta
 marchantería
 marchantía
@@ -1549,8 +1549,8 @@ marchitar
 marchitez
 marchito, ta
 marchoso, sa
-marcial1
-Marcial2
+marcial
+Marcial
 marcialidad
 marciano, na
 marcido, da
@@ -1578,13 +1578,13 @@ marejadilla
 maremagno
 maremágnum
 maremoto
-marengo1
-marengo2
+marengo
+marengo
 mareo
 mareógrafo
 mareomotriz
 mareoso, sa
-marero1
+marero
 marero2, ra
 marero2, ra
 mareta
@@ -1596,8 +1596,8 @@ marfileño, ña
 marfilina
 marfusa
 marfuz, za
-marga1
-marga2
+marga
+marga
 margajita
 margal
 margallate
@@ -1624,8 +1624,8 @@ margrave
 margraviato
 marguera
 Mari
-maría1
-maría2
+maría
+maría
 mariachi
 marial
 mariana
@@ -1666,8 +1666,8 @@ marimonda
 marimoña
 marimorena
 marina
-marinada1
-marinada2
+marinada
+marinada
 marinado, da
 marinaje
 marinante
@@ -1681,15 +1681,15 @@ marinería
 marinero, ra
 marinesco, ca
 marinismo
-marinista1
-marinista2
+marinista
+marinista
 marino, na
 marinovio, via
 mariol
 mariología
 mariólogo, ga
-marión1
-marión2
+marión
+marión
 mariona
 marioneta
 marionetista
@@ -1725,8 +1725,8 @@ maritates
 marítimo, ma
 maritornes
 marizarse
-marjal1
-marjal2
+marjal
+marjal
 marjoleta
 marjoleto
 marketing
@@ -1758,15 +1758,15 @@ marmotera
 marmullar
 maro
 marojal
-marojo1
-marojo2
+marojo
+marojo
 marola
 maroma
 maromear
 maromero, ra
 maromo
-marón1
-marón2
+marón
+marón
 maronita
 marota
 marote
@@ -1781,10 +1781,10 @@ marqués, sa
 marqueta
 marquetería
 marquilla
-marquista1
-marquista2
-marra1
-marra2
+marquista
+marquista
+marra
+marra
 márraga
 marragón
 marraguero
@@ -1799,8 +1799,8 @@ marranchón, na
 marranear
 marranería
 marrano1, na
-marrano2
-marrano2
+marrano
+marrano
 marraqueta
 marrar
 marras
@@ -1811,9 +1811,9 @@ marrido, da
 marrillo
 marro
 marrocas
-marrón1
-marrón2
-marrón3
+marrón
+marrón
+marrón
 marronazo
 marroquí
 marroquinería
@@ -1821,7 +1821,7 @@ marroquinero, ra
 marroquín, na
 marrubial
 marrubio
-marrueco1
+marrueco
 marrueco2, ca
 marrulla
 marrullar
@@ -1835,11 +1835,11 @@ marsopla
 marso, sa
 marsupial
 marsupio
-marta1
-marta2
-Marta3
+marta
+marta
+Marta
 mártaga
-martagón1
+martagón
 martagón2, na
 martaguilla
 martajar
@@ -1863,8 +1863,8 @@ martín
 martina
 martinenco
 martineta
-martinete1
-martinete2
+martinete
+martinete
 martingala
 martini
 martinico
@@ -1945,7 +1945,7 @@ masera
 masería
 masetero
 masía
-másico1
+másico
 másico2, ca
 masicoral
 masieno, na
@@ -1961,7 +1961,7 @@ masivo, va
 maslo
 masmelo
 masoca
-masón1
+masón
 masón2, na
 masonería
 masónico, ca
@@ -1995,7 +1995,7 @@ mastieno, na
 mastigador
 mastigar
 mástil
-mástil2
+mástil
 mastín, na
 mástique
 mastitis
@@ -2020,9 +2020,9 @@ masturbar
 masturbatorio, ria
 masurio
 masvale
-mata1
-mata2
-mata3
+mata
+mata
+mata
 matabuey
 mataburros
 matacaballo
@@ -2033,7 +2033,7 @@ matacandelas
 matacandil
 matacandiles
 matachín
-matachín2
+matachín
 matacía
 matación
 mataco, ca
@@ -2057,8 +2057,8 @@ matalahúva
 matalobos
 matalón, na
 matalotaje
-matalote1
-matalote2
+matalote
+matalote
 matambre
 matamiento
 matamoros
@@ -2093,13 +2093,9 @@ matasiete
 matasuegras
 matate
 matazón
-mate1
-mate2
-mate3
-mate4
+mate
 mateada
-matear1
-matear2
+matear
 matemática
 matemáticamente
 matemático, ca
@@ -2121,7 +2117,7 @@ maternizar
 maternofilial
 materno, na
 matero1, ra
-matero2
+matero
 matete
 matico
 matidez
@@ -2231,8 +2227,8 @@ máximum
 maxmordón
 maxtate
 maxwell
-maya1
-maya2
+maya
+maya
 mayador, ra
 mayagüezano, na
 mayal
@@ -2246,8 +2242,8 @@ mayéutico, ca
 mayido
 mayismo
 mayista
-mayo1
-mayo2
+mayo
+mayo
 mayólica
 mayombe
 mayonesa
@@ -2319,8 +2315,8 @@ meada
 meadero
 meado
 meadura
-meaja1
-meaja2
+meaja
+meaja
 meajuela
 meandro
 meano, na
@@ -2341,7 +2337,7 @@ mecanización
 mecanizada
 mecanizado
 mecanizar
-mecano1
+mecano
 mecano2, na
 mecanografía
 mecanografiar
@@ -2354,8 +2350,8 @@ mecatazo
 mecate
 mecateada
 mecateado, da
-mecatear1
-mecatear2
+mecatear
+mecatear
 mecatera
 mecato
 mecedero
@@ -2363,14 +2359,14 @@ mecedor, ra
 mecedura
 mecenas
 mecenazgo
-mecer1
-mecer2
+mecer
+mecer
 mecha
 mechar
 mechazo
 mechera
-mechero1
-mechero2
+mechero
+mechero
 mechinal
 mechita
 mechoacán
@@ -2390,8 +2386,8 @@ médano
 medanoso, sa
 medaño
 medellinense
-media1
-media2
+media
+media
 mediacaña
 mediación
 mediado, da
@@ -2570,8 +2566,8 @@ melanoma
 melanosis
 melanuria
 melapia
-melar1
-melar2
+melar
+melar
 melarchía
 melarquía
 melastomáceo, a
@@ -2586,8 +2582,8 @@ meldar
 meldense
 melé
 melecina
-melena1
-melena2
+melena
+melena
 melenera
 melengüelear
 meleno, na
@@ -2596,8 +2592,8 @@ melenudo
 melero, ra
 melga
 melgacho
-melgar1
-melgar2
+melgar
+melgar
 melgo, ga
 melgrana
 melguizo, za
@@ -2659,14 +2655,14 @@ melojo
 melolonta
 melomanía
 melómano, na
-melón1
-melón2
+melón
+melón
 melona
 melonada
 melonar
 meloncete
-meloncillo1
-meloncillo2
+meloncillo
+meloncillo
 melonero, ra
 melopea
 melopeya
@@ -2705,9 +2701,9 @@ memento
 memez
 memnónida
 memo1, ma
-memo2
+memo
 memorable
-memorando1
+memorando
 memorando2, da
 memorar
 memorativo, va
@@ -2723,8 +2719,8 @@ memorístico, ca
 memorización
 memorizar
 memoroso, sa
-mena1
-mena2
+mena
+mena
 ménade
 menaje
 menar
@@ -2862,8 +2858,8 @@ mensural
 mensurar
 mensurativo, va
 -menta
-menta1
-menta2
+menta
+menta
 mentada
 mentado, da
 mental
@@ -3015,7 +3011,7 @@ meristemo
 méritamente
 meritar
 meritísimo, ma
-mérito1
+mérito
 mérito2, ta
 meritocracia
 meritoriaje
@@ -3033,7 +3029,7 @@ merma
 mermador, ra
 mermar
 mermelada
-mero1
+mero
 mero2, ra
 merode
 merodeador, ra
@@ -3071,7 +3067,7 @@ mesénquima
 mesenquimal
 mesentérico, ca
 mesenterio
-mesero1
+mesero
 mesero2, ra
 meseta
 mesetario, ria
@@ -3102,8 +3098,8 @@ mesocrático, ca
 mesodérmico, ca
 mesodermo
 mesolítico, ca
-mesón1
-mesón2
+mesón
+mesón
 mesonaje
 mesonero, ra
 mesonil
@@ -3248,8 +3244,8 @@ meticón, na
 meticulosamente
 meticulosidad
 meticuloso, sa
-metida1
-metida2
+metida
+metida
 metidillo
 metido, da
 metijón, na
@@ -3290,8 +3286,8 @@ metrificatura
 metrista
 metritis
 -metro
-metro1
-metro2
+metro
+metro
 metrología
 metrológico, ca
 metrólogo, ga
@@ -3338,14 +3334,14 @@ mezquite
 mezzo
 mezzosoprano
 mí
-mi1
-mi2
-mi3
+mi
+mi
+mi
 mía
 miador, ra
 miagar
-miaja1
-miaja2
+miaja
+miaja
 mialgia
 mialmas
 miañar
@@ -3354,8 +3350,8 @@ miasma
 miasmático, ca
 miastenia
 miau
-mica1
-mica2
+mica
+mica
 micáceo, a
 micacita
 micado
@@ -3449,8 +3445,8 @@ microtúbulo
 microvellosidad
 microvoltio
 micuré
-mida1
-mida2
+mida
+mida
 midriasis
 miéchica
 miedica
@@ -3461,11 +3457,8 @@ miedro
 miel
 mielazo
 mielero, ra
-mielga1
-mielga2
-mielga3
-mielga4
-mielgo, ga
+mielga
+mielgo
 mielina
 mielínico, ca
 mielítico, ca
@@ -3486,8 +3479,8 @@ mierda
 mierla
 mierra
 mies
-miga1
-miga2
+miga
+miga
 migaja
 migajada
 migajón
@@ -3507,7 +3500,7 @@ miguelito
 miguero, ra
 mihrab
 mijero
-mijinete2
+mijinete
 mijitear
 mijo
 mikado
@@ -3549,8 +3542,8 @@ milhombres
 mili
 mili-
 miliamperio
-miliar1
-miliar2
+miliar
+miliar
 miliario, ria
 milibar
 milibaro
@@ -3564,8 +3557,8 @@ milímetro
 milisegundo
 militancia
 militante
-militar1
-militar2
+militar
+militar
 militara
 militarada
 militarismo
@@ -3604,8 +3597,8 @@ milrayas
 miltrillonésimo, ma
 mimado, da
 mimador, ra
-mimar1
-mimar2
+mimar
+mimar
 mimbral
 mimbrar
 mimbre
@@ -3629,16 +3622,16 @@ mimetizado, da
 mimetizar
 mimiambo
 mímico, ca
-mimo1
-mimo2
+mimo
+mimo
 mimodrama
 mimógrafo, fa
 mimosa
 mimosáceo, a
 mimosamente
 mimoso, sa
-mina1
-mina2
+mina
+mina
 minada
 minado
 minador, ra
@@ -3647,8 +3640,8 @@ minal
 minar
 minarete
 minaz
-minción1
-minción2
+minción
+minción
 mindango, ga
 mindanguear
 mindoniense
@@ -3669,8 +3662,8 @@ minero, ra
 minerva
 minervista
 minestrone
-minga1
-minga2
+minga
+minga
 mingaco
 mingar
 mingitorio, ria
@@ -3752,15 +3745,15 @@ minuta
 minutación
 minutado
 minutaje
-minutar1
-minutar2
+minutar
+minutar
 minutario
 minutero
 minutisa
 minuto, ta
 miñambre
-miñón1
-miñón2
+miñón
+miñón
 miñona
 miñosa
 mio
@@ -3816,8 +3809,8 @@ miriápodo
 mirificar
 mirífico, ca
 mirilla
-miriñaque1
-miriñaque2
+miriñaque
+miriñaque
 miriópodo
 mirística
 miristicáceo, a
@@ -3916,7 +3909,7 @@ misterioso, sa
 mística
 místicamente
 misticismo
-místico1
+místico
 místico2, ca
 misticón, na
 mistificación
@@ -3924,7 +3917,7 @@ mistificador, ra
 mistificar
 mistilíneo, a
 mistión
-misto1
+misto
 misto2, ta
 mistol
 mistral
@@ -3951,8 +3944,8 @@ mitimae
 mitin
 mitinear
 mitinero, ra
-mito1
-mito2
+mito
+mito
 mitocondria
 mitografía
 mitógrafo, fa
@@ -4047,8 +4040,8 @@ mochilear
 mochilero, ra
 mochillero
 mocho, cha
-mochuelo1
-mochuelo2
+mochuelo
+mochuelo
 mocil
 moción
 mocionar
@@ -4126,8 +4119,8 @@ modoso, sa
 modrego
 modulación
 modulador, ra
-modular1
-modular2
+modular
+modular
 módulo
 moduloso, sa
 modurria
@@ -4139,8 +4132,8 @@ mofa
 mofador, ra
 mofadura
 mofar
-mofeta1
-mofeta2
+mofeta
+mofeta
 mofle
 mofletarse
 moflete
@@ -4183,9 +4176,9 @@ mohoso, sa
 mohúr
 moisés
 mojábana
-mojada1
-mojada2
-mojada3
+mojada
+mojada
+mojada
 mojadedo
 mojadera
 mojado, da
@@ -4200,40 +4193,40 @@ mojel
 mojeño, ña
 mojera
 mojete
-mojí1
-moji2
+mojí
+moji
 mojicón
 mojiganga
 mojigatería
 mojigatez
 mojigato, ta
 mojina
-mojinete1
+mojinete
 mojito
 mojo
-mojón1
-mojon2
-mojona1
-mojona2
+mojón
+mojon
+mojona
+mojona
 mojonación
 mojonar
 mojonera
 mojonero
 mol
-mola1
-mola2
+mola
+mola
 molacho, cha
 molada
-molar1
-molar2
+molar
+molar
 molasa
 molcajete
 molcajetear
 moldar
 moldavo, va
 molde
-molde1
-molde2
+molde
+molde
 moldeable
 moldeado
 moldeador, ra
@@ -4242,10 +4235,10 @@ moldear
 moldeo
 moldero
 moldista
-moldura1
-moldura2
+moldura
+moldura
 moldurar
-mole1
+mole
 molécula
 molecular
 moledero, ra
@@ -4284,8 +4277,8 @@ molinete
 molinetear
 molinillo
 molinismo
-molinista1
-molinista2
+molinista
+molinista
 molino
 molinosismo
 molinosista
@@ -4298,8 +4291,8 @@ mollear
 molledo
 molleja
 mollejo, ja
-mollejón1
-mollejón2
+mollejón
+mollejón
 mollendino, na
 mollera
 mollero
@@ -4321,7 +4314,7 @@ mollizna
 molliznar
 molliznear
 molo
-molón1
+molón
 molón2, na
 molondra
 molondro
@@ -4353,8 +4346,8 @@ mómodificación
 momorándum
 momórdiga
 momperada
-mona1
-mona2
+mona
+mona
 monacal
 monacato
 monacillo
@@ -4375,8 +4368,8 @@ monasterial
 monasterio
 monástico, ca
 moncheta
-monda1
-monda2
+monda
+monda
 mondaderas
 mondadientes
 mondador, ra
@@ -4421,7 +4414,7 @@ monetizar
 monfí
 monfortino, na
 monga
-mongo1
+mongo
 mongo2, ga
 mongólico, ca
 mongolismo
@@ -4438,15 +4431,15 @@ monimiáceo, a
 monio, mia
 monipodio
 monis
-monís1
-monís2
+monís
+monís
 monismo
 monista
 mónita
 moniteísmo
 monito
 monitor1, ra
-monitor2
+monitor
 monitorio, ria
 monitorización
 monitorizar
@@ -4459,7 +4452,7 @@ monjío
 monjita
 mono-
 mono1, na
-mono2
+mono
 monoaural
 monocarril
 monocasco
@@ -4618,12 +4611,12 @@ montazal
 montazgar
 montazgo
 monte
-montea1
-montea2
-monteador1
-monteador2
-montear1
-montear2
+montea
+montea
+monteador
+monteador
+montear
+montear
 montecristeño, ña
 monteleva
 montenegrino, na
@@ -4639,8 +4632,8 @@ monterilla
 montero, ra
 monterreu
 montés
-montesa1
-Montesa2
+montesa
+Montesa
 montesco
 montesino1, na
 montesino2, na
@@ -4686,13 +4679,13 @@ moquera
 moquero
 moqueta
 moquete
-moquetear1
-moquetear2
+moquetear
+moquetear
 moquillo
 moquita
 moquitear
 mor
-mora1
+mora
 morabetino
 morabito
 morabuto
@@ -4705,8 +4698,8 @@ moradura
 moraduz
 moraga
 morago
-moral1
-moral2
+moral
+moral
 moraleda
 moraleja
 moralidad
@@ -4747,7 +4740,7 @@ morceña
 morciguillo
 morcilla
 morcillero, ra
-morcillo1
+morcillo
 morcillo2, lla
 morcillón, na
 morcón
@@ -4781,9 +4774,9 @@ moreda
 morelense
 moreliano, na
 morellano, na
-morena1
-morena2
-morena3
+morena
+morena
+morena
 morenal
 morenero
 morenez
@@ -4846,7 +4839,7 @@ morista
 morito
 moriviví
 morlaco1, ca
-morlaco2
+morlaco
 morlés
 morlón, na
 mormado, da
@@ -4863,7 +4856,7 @@ morocho, cha
 morocota
 morojo
 moro-moro
-morón1
+morón
 morón2, na
 moroncho, cha
 morondanga
@@ -4880,8 +4873,8 @@ morosidad
 moroso, sa
 morquera
 morquero
-morra1
-morra2
+morra
+morra
 morrada
 morral
 morralada
@@ -4895,8 +4888,8 @@ morrillo
 morriña
 morriñoso, sa
 morrión
-morro1
-morro2
+morro
+morro
 morrocota
 morrocotudo, da
 morrocoyo
@@ -4906,13 +4899,13 @@ morrongo, ga
 morroño, ña
 morroñoso, sa
 morrudo, da
-morsa1
-morsa2
+morsa
+morsa
 morsana
 morse
 mortadela
-mortaja1
-mortaja2
+mortaja
+mortaja
 mortajar
 mortal
 mortaldad
@@ -4956,8 +4949,8 @@ moscardear
 moscardón
 moscareta
 moscarrón
-moscatel1
-moscatel2
+moscatel
+moscatel
 moscella
 mosclo
 mosco, ca
@@ -5026,9 +5019,9 @@ mostro
 mota
 motacila
 motacú
-mote1
-mote2
-mote3
+mote
+mote
+mote
 motear
 motejador, ra
 motejar
@@ -5039,8 +5032,8 @@ motero1, ra
 motero2, ra
 motero3, ra
 motero4, ra
-motete1
-motete2
+motete
+motete
 motil
 motilar
 motilidad
@@ -5053,8 +5046,8 @@ motivante
 motivar
 motivo, va
 moto-
-moto1
-moto2
+moto
+moto
 moto3, ta
 motocarro
 motocicleta
@@ -5092,8 +5085,8 @@ movedor, ra
 movedura
 movible
 movición
-movida1
-movida2
+movida
+movida
 movido, da
 movidoso, sa
 moviente
@@ -5106,8 +5099,8 @@ moviola
 moxa
 moxitano, na
 moya
-moyana1
-moyana2
+moyana
+moyana
 moyo
 moyobambino, na
 moyuelo
@@ -5122,7 +5115,7 @@ mozarabía
 mozarabismo
 mozartiano
 mozcorra
-mozo1
+mozo
 mozo1, za
 mozorro, rra
 mozote
@@ -5130,8 +5123,8 @@ mozuelo, la
 mozzarella
 mprigerar
 mpver
-mu1
-mu2
+mu
+mu
 mua
 muaré
 muble
@@ -5171,8 +5164,8 @@ mudadizo, za
 mudamente
 mudamiento
 mudanza
-mudar1
-mudar2
+mudar
+mudar
 mudéjar
 mudejarismo
 mudez
@@ -5190,8 +5183,8 @@ muecín
 muela
 muelar
 muellaje
-muelle1
-muelle2
+muelle
+muelle
 muellemente
 muelo
 muenda
@@ -5210,8 +5203,8 @@ muertero, ra
 muerto, ta
 muesca
 muescar
-mueso1
-mueso2
+mueso
+mueso
 muestra
 muestral
 muestrario
@@ -5223,8 +5216,8 @@ mufla
 muflir
 muflón
 muftí
-muga1
-muga2
+muga
+muga
 mugada
 mugar
 mugido
@@ -5262,8 +5255,8 @@ mujerona
 mujerzuela
 mújol
 mulá
-mula1
-mula2
+mula
+mula
 mulada
 muladar
 muladí
@@ -5283,7 +5276,7 @@ muletazo
 muletear
 muleteo
 muletero1, ra
-muletero2
+muletero
 muletilla
 muletillero, ra
 muletón
@@ -5296,12 +5289,12 @@ mulla
 mullicar
 mullida
 mullido
-mullidor1
+mullidor
 mullidor2, ra
-mullir1
-mullir2
-mullo1
-mullo2
+mullir
+mullir
+mullo
+mullo
 mulo, la
 mulquía
 mulquite
@@ -5433,8 +5426,8 @@ muralismo
 muralista
 muralla
 murallón
-murar1
-murar2
+murar
+murar
 murata
 murceguillo
 murceo
@@ -5450,8 +5443,8 @@ murcio
 murecillo
 murena
 mureño
-murga1
-murga2
+murga
+murga
 murgaño
 murgón
 murguista
@@ -5472,8 +5465,8 @@ murmurear
 murmureo
 murmurio
 muro
-murria1
-murria2
+murria
+murria
 murriada
 murriar
 múrrino, na
@@ -5500,11 +5493,11 @@ muscardino
 muscaria
 muscarina
 muscícapa
-musco1
+musco
 musco2, ca
 musculación
-muscular1
-muscular2
+muscular
+muscular
 musculatura
 músculo
 musculoso, sa
@@ -5521,7 +5514,7 @@ musepo
 musequí
 muserola
 musgaño
-musgo1
+musgo
 musgo2, ga
 musgoso, sa
 música

@@ -1,5 +1,5 @@
-u1
-u2
+u
+u
 ubajay
 ube
 ubérrimo, ma
@@ -144,10 +144,10 @@ umbro, bra
 umbroso, sa
 umero
 umjú
-un1
-un2
-una1
-una2
+un
+un
+una
+una
 unalbo, ba
 unamuniano, na
 unánime
@@ -295,7 +295,7 @@ uralaltaico, ca
 urálico, ca
 uralita
 uraloaltaico, ca
-uranio1
+uranio
 uranio2, nia
 uranismo
 uranista
@@ -320,8 +320,8 @@ urbanizar
 urbano, na
 urbe
 urbi et orbi
-urca1
-urca2
+urca
+urca
 urce
 urchilla
 urcitano, na
@@ -359,8 +359,8 @@ urna
 urnaque
 urnición
 uro
--uro1
--uro2
+-uro
+-uro
 urodelo
 urogallo
 urogenital
@@ -447,14 +447,14 @@ usurero, ra
 usurpación
 usurpador, ra
 usurpar
-uta1
-uta2
+uta
+uta
 utensilio
 uterino, na
 útero
 uticense
-útil1
-útil2
+útil
+útil
 utilería
 utilitarismo
 utilitarista

@@ -17,8 +17,8 @@ nabo
 naborí
 naboría
 nácar
-nácara1
-nácara2
+nácara
+nácara
 nacarado, da
 nacáreo, a
 nacarigüe
@@ -54,7 +54,7 @@ nacionalsindicalismo
 nacionalsindicalista
 nacionalsocialismo
 nacionalsocialista
-naco1
+naco
 naco2, ca
 nacre
 nacrita
@@ -105,8 +105,8 @@ naipear
 naipero, ra
 naipesco, ca
 naire
-naja1
-naja2
+naja
+naja
 najerano, na
 najerense
 najerino, na
@@ -124,8 +124,8 @@ nalguear
 nambira
 namibio, bia
 namorar
-nana1
-nana2
+nana
+nana
 nanacate
 nanay
 nance
@@ -149,8 +149,8 @@ nansú
 nantar
 nao
 naonato, ta
-napa1
-napa2
+napa
+napa
 napalm
 napar
 napea
@@ -175,8 +175,8 @@ narbonés, sa
 narceína
 narcisismo
 narcisista
-narciso1
-narciso2
+narciso
+narciso
 narco
 narco-
 narcoavioneta
@@ -218,8 +218,8 @@ nariz
 narizón, na
 narizotas
 narizudo, da
-narra1
-narra2
+narra
+narra
 narrable
 narración
 narrador, ra
@@ -305,7 +305,7 @@ navajazo
 navajear
 navajeo
 navajero, ra
-navajo1
+navajo
 navajo2, ja
 navajón
 navajonazo
@@ -528,7 +528,7 @@ neneque
 nenia
 nenúfar
 neo-
-neo1
+neo
 neo2, a
 neocatolicismo
 neocatólico, ca
@@ -645,8 +645,8 @@ netáceo, a
 netamente
 netezuelo, la
 neto, ta
-neuma1
-neuma2
+neuma
+neuma
 neumático, ca
 neumo-
 neumococo
@@ -746,8 +746,8 @@ nevus
 newton
 newtoniano, na
 nexo
-ni1
-ni2
+ni
+ni
 nía
 nial
 niara
@@ -764,7 +764,7 @@ niceno, na
 niche
 nicho
 nicle
-niclear1
+niclear
 nicociana
 nicol
 nicomediense
@@ -840,7 +840,7 @@ ninja
 ninot
 niña
 niñada
-niñato1
+niñato
 niñato2, ta
 niñear
 niñería
@@ -960,8 +960,8 @@ nocturno, na
 nodación
 nodal
 nodátil
-nodo1
-nodo2
+nodo
+nodo
 nodriza
 nodular
 nódulo
@@ -1029,8 +1029,8 @@ nomon
 nomónico, ca
 nomotético, ca
 nomparell
-non1
-non2
+non
+non
 nona
 nonada
 nonagenario, ria
@@ -1157,7 +1157,7 @@ noticioso, sa
 notificación
 notificar
 notificativo, va
-noto1
+noto
 noto2, ta
 noto3, ta
 notocordio
@@ -1246,7 +1246,7 @@ nuca
 nuche
 nucir
 nucleamiento
-nuclear2
+nuclear
 nucleario, ria
 nuclearización
 nuclearizar
@@ -1261,7 +1261,7 @@ nuco
 nudillo
 nudismo
 nudista
-nudo1
+nudo
 nudo2, da
 nudo2, da
 nudosidad
