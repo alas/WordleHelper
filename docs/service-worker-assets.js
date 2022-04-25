@@ -33,7 +33,7 @@
       "url": "_framework\/icudt_no_CJK.dat.br"
     },
     {
-      "hash": "sha256-yhwjOlZdU1gS9G4KvnZpYFQS2AszuYGqO6LZguFtZrI=",
+      "hash": "sha256-63uq1Zw7tM2yny4U5pn8jURPdot2h6z9aiDpXR4fEHg=",
       "url": "_framework\/blazor.boot.json.br"
     },
     {
@@ -181,7 +181,7 @@
       "url": "_framework\/System.Text.RegularExpressions.dll.br"
     },
     {
-      "hash": "sha256-ebXSw9tWP8PGr581Djwtf5GnNd6reU5jk+sVLXF\/0vg=",
+      "hash": "sha256-+FfpOuI1VVokgvXWoW4t8JczxXeDBwM5bq1jbvM7fCc=",
       "url": "_framework\/WordleHelper.dll.br"
     },
     {
@@ -265,5 +265,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "hY46jHRn"
+  "version": "IU+UcF\/M"
 };
