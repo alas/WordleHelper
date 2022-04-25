@@ -5,7 +5,7 @@ using WordleHelper.Code;
 
 public partial class Index
 {
-    public readonly string[] LanguageOptions = { "English", "Spanish" };
+    public readonly string[] LanguageOptions = { "English", "Spanish", "Lunfardo" };
 
     private Model Model { get; set; } = new();
 

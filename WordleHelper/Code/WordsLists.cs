@@ -10,10 +10,13 @@ internal class WordsLists
 
     private readonly string[] Spanish;
 
-    public WordsLists(string[] english, string[] spanish)
+    private readonly string[] Lunfardo;
+
+    public WordsLists(string[] english, string[] spanish, string[] lunfardo)
     {
         English = english;
         Spanish = spanish;
+        Lunfardo = lunfardo;
     }
 
     public static async Task<WordsLists> FactoryAsync()
@@ -24,8 +27,9 @@ internal class WordsLists
 
         #region Decompress Dictionaries
 
-        var english = await FromGzipAsync(CompressedWordsLists.EnglishCompressed);
-        var spanish = await FromGzipAsync(CompressedWordsLists.SpanishCompressed);
+        var english = await FromGzipAsync(CompressedWordsLists.English);
+        var spanish = await FromGzipAsync(CompressedWordsLists.Spanish);
+        var lunfardo = await FromGzipAsync(CompressedWordsLists.Lunfardo);
 
         #endregion
 
@@ -35,7 +39,7 @@ internal class WordsLists
         start = DateTime.UtcNow;
 #endif
 
-        WordsLists result = new(english, spanish);
+        WordsLists result = new(english, spanish, lunfardo);
 
 #if DEBUG
         dt = DateTime.UtcNow.Subtract(start).TotalSeconds;
@@ -62,6 +66,7 @@ internal class WordsLists
     {
         var words = model.Language switch
         {
+            "Lunfardo" => Lunfardo,
             "Spanish" => Spanish,
             "English" or _ => English
         };
